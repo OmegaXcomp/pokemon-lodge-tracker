@@ -1,0 +1,48 @@
+name: Scrape Trainer Lodge Data
+
+on:
+  schedule:
+    - cron: '0 6 1,11,21 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install cloudscraper
+
+      - name: Run scraper
+        run: python scraper/scrape_lodge.py
+
+      - name: Check for changes
+        id: check
+        run: |
+          if git diff --quiet data/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push
+        if: steps.check.outputs.changed == 'true'
+        run: |
+          git config user.name "Lodge Bot"
+          git config user.email "bot@pokemon-lodge.dev"
+          git add data/
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+          git commit -m "Auto-update lodge data - $TIMESTAMP"
+          git push
