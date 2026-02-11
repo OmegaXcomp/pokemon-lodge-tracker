@@ -1,1 +1,261 @@
-{"updates": []}
+{
+  "updates": [
+    {
+      "date": "2026-02-11 05:04 UTC",
+      "trainer_count": 50,
+      "change_count": 50,
+      "changes": [
+        {
+          "type": "new_trainer",
+          "trainer": "Acerola",
+          "details": "3 tiers, 75 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Adaman",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Arven",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Ball Guy",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Blue",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Brendan",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Calem",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Carmine",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Cheren",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Cynthia",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Dawn",
+          "details": "3 tiers, 75 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Diantha",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Elesa",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Giovanni",
+          "details": "3 tiers, 76 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Gladion",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Gloria",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Grimsley",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Hilda",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Iono",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Irida",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Iris",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Jasmine",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Kabu",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Lacey",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Lana",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Lance",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Larry",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Leaf",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Lear",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Leon",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Lillie",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Lusamine",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Marnie",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "May",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Morty",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "N",
+          "details": "3 tiers, 76 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Penny",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Piers",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Professor Sycamore",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Raihan",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Rika",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Rosa",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Serena",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Shauna",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Silver",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Skyla",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Steven",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Volkner",
+          "details": "3 tiers, 78 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Volo",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "new_trainer",
+          "trainer": "Wally",
+          "details": "3 tiers, 77 topics"
+        }
+      ]
+    }
+  ]
+}

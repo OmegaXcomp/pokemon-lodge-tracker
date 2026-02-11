@@ -1,1 +1,6409 @@
-{}
+{
+  "_metadata": {
+    "last_updated": "2026-02-11 05:04 UTC",
+    "trainer_count": 50,
+    "total_topics": 3845,
+    "source": "pokemon-masters-ex-game.fandom.com",
+    "scraper_version": "2.0",
+    "errors": []
+  },
+  "Acerola": {
+    "name": "Acerola",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ho-Oh",
+          "Ice types",
+          "Normal types",
+          "Pokémon friends",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Gym Badges",
+          "PokéNavs",
+          "The Ghost Badge"
+        ],
+        "Friends": [
+          "Dawn",
+          "Elesa",
+          "Hugh"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Jokes",
+          "Machines",
+          "Making Pokéblocks",
+          "Pokéathlons",
+          "Research",
+          "Stars"
+        ],
+        "Fashion": [
+          "Bags",
+          "Glasses",
+          "Headphones",
+          "Scarves"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Ninjas",
+          "Secret Bases",
+          "Snow",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon behavior",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions"
+        ],
+        "Friends": [
+          "Mina"
+        ],
+        "Hobbies": [
+          "Cooking",
+          "Exercise",
+          "Festivals",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Melemele Island",
+          "Quiet places",
+          "Ruins",
+          "The ocean",
+          "The Sinnoh region"
+        ],
+        "Other": [
+          "Parades",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Ghost types",
+          "Pokémon battles"
+        ],
+        "Items": [
+          "Big Malasadas",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Elio",
+          "Nanu",
+          "Selene"
+        ],
+        "Hobbies": [
+          "Reading"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Aether House",
+          "Mount Lanakila",
+          "Pasio",
+          "The Alola region",
+          "Trainer Lodge",
+          "Ula'ula Island"
+        ],
+        "Other": [
+          "Ancient dynasties",
+          "Captains",
+          "Ghosts",
+          "Old royalty",
+          "Partner Pokémon",
+          "The Elite Four",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Adaman": {
+    "name": "Adaman",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Gym Badges",
+          "Lumiose Galettes",
+          "Rotom Phones",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Dexio",
+          "Elio",
+          "Lyra",
+          "Rosa"
+        ],
+        "Hobbies": [
+          "Ferris wheels",
+          "Music",
+          "Pokéathlons",
+          "Space",
+          "Stars"
+        ],
+        "Fashion": [
+          "Bags",
+          "Glasses",
+          "Scarves"
+        ],
+        "Places": [
+          "Aether House",
+          "Ecruteak City",
+          "Melemele Island",
+          "Pallet Town",
+          "Ruins"
+        ],
+        "Other": [
+          "Fancy Lady",
+          "Ghosts",
+          "Parades",
+          "The Dynamax phenomenon",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon Contests",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Festivals",
+          "Reading",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Fashion"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Quiet places",
+          "The ocean"
+        ],
+        "Other": [
+          "Pearl Clan",
+          "Snow",
+          "The PML",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Almighty Sinnoh",
+          "Dragon types",
+          "Grass types",
+          "Legendary Pokémon",
+          "Pokémon battles",
+          "Pokémon behavior"
+        ],
+        "Items": [
+          "Apricorns",
+          "Celestica Flute",
+          "Pokédexes"
+        ],
+        "Friends": [
+          "Irida",
+          "Mai",
+          "Melli"
+        ],
+        "Hobbies": [
+          "Cooking",
+          "Nature",
+          "Time"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Barrettes",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Lake Verity",
+          "Mount Coronet",
+          "Pasio",
+          "The Hisui region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Diamond Clan",
+          "Impatience",
+          "Ninjas",
+          "Partner Pokémon",
+          "Space-time distortion",
+          "Veteran Trainers"
+        ]
+      }
+    }
+  },
+  "Arven": {
+    "name": "Arven",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Ultra Beasts"
+        ],
+        "Items": [
+          "League Cards",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Elesa",
+          "Iris",
+          "Mina"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Pokéathlons",
+          "Research",
+          "Stars",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Headphones",
+          "Uniforms"
+        ],
+        "Places": [
+          "Olivine City Lighthouse",
+          "Ruins",
+          "Spikemuth",
+          "Wyndon"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Ghosts",
+          "Hating to lose",
+          "Ninjas",
+          "Parades",
+          "Snow",
+          "The PML",
+          "Veteran Trainers",
+          "Villainous organizations",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "How to get stronger",
+          "Ice types",
+          "Legendary Pokémon",
+          "Normal types",
+          "Pokémon battles",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Potions"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Festivals",
+          "Photos"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Levincia",
+          "Mesagoza",
+          "Quiet places",
+          "The ocean"
+        ],
+        "Other": [
+          "Teachers"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Love for Pokémon",
+          "Mabosstiff",
+          "Pokémon behavior"
+        ],
+        "Items": [
+          "Herba Mystica",
+          "Poké Balls",
+          "Rotom Phones",
+          "Sandwiches"
+        ],
+        "Friends": [
+          "Clavell",
+          "Family",
+          "Nemona",
+          "Penny"
+        ],
+        "Hobbies": [
+          "Cooking",
+          "Meals",
+          "Picnics",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bags",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Cabo Paco",
+          "Pasio",
+          "The Paldea region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Dreams",
+          "Health foods",
+          "Partner Pokémon",
+          "Terastallizing"
+        ]
+      }
+    }
+  },
+  "Ball Guy": {
+    "name": "Ball Guy",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ho-Oh",
+          "How to get stronger",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Sinistcha",
+          "Water types"
+        ],
+        "Items": [
+          "Gramophones",
+          "Herba Mystica",
+          "Syrupy Apples"
+        ],
+        "Friends": [
+          "Adaman",
+          "Maxie",
+          "Melli"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Collecting stones",
+          "Ogre Oustin'",
+          "Pokéathlons",
+          "Stars",
+          "Studying history"
+        ],
+        "Fashion": [
+          "Cardigans",
+          "Sunglasses",
+          "Swimsuits"
+        ],
+        "Places": [
+          "Indigo Plateau",
+          "Lumiose City",
+          "Quiet places",
+          "Ruins"
+        ],
+        "Other": [
+          "Blackouts",
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon battles",
+          "Pokémon Evolution"
+        ],
+        "Friends": [
+          "Milo",
+          "Nessa"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Hats"
+        ],
+        "Places": [
+          "Forests",
+          "Postwick",
+          "Spikemuth",
+          "The ocean"
+        ],
+        "Other": [
+          "Colors",
+          "Parades",
+          "Smiling",
+          "The PML"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Catching Pokémon",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Friend Balls",
+          "League Cards",
+          "Nuggets",
+          "Poké Balls"
+        ],
+        "Friends": [
+          "Gloria",
+          "Victor"
+        ],
+        "Hobbies": [
+          "Balls",
+          "Cheering",
+          "Collections",
+          "Festivals"
+        ],
+        "Fashion": [
+          "Sporty clothes",
+          "Uniforms"
+        ],
+        "Places": [
+          "Bustling places",
+          "Pasio",
+          "Stadiums",
+          "The Galar region",
+          "Trainer Lodge",
+          "Wyndon"
+        ],
+        "Other": [
+          "Catchphrases",
+          "Champions",
+          "Dancing",
+          "Partner Pokémon",
+          "Word choice"
+        ]
+      }
+    }
+  },
+  "Blue": {
+    "name": "Blue",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Cute Pokémon",
+          "Dragon types",
+          "Grass types",
+          "Ice types",
+          "Legendary Pokémon",
+          "Normal types",
+          "Pokémon Contests"
+        ],
+        "Items": [
+          "Rotom Phones",
+          "Shalour Sables",
+          "The Zephyr Badge",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Cynthia",
+          "Steven"
+        ],
+        "Hobbies": [
+          "Cooking",
+          "Ferris wheels",
+          "Pokéathlons",
+          "Stars"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Hats",
+          "Scarves"
+        ],
+        "Places": [
+          "Nimbasa City",
+          "Ruins",
+          "Spikemuth"
+        ],
+        "Other": [
+          "Ninjas",
+          "Parades",
+          "Secret Bases",
+          "Snow",
+          "Team Yell",
+          "The Dynamax phenomenon"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon Evolution",
+          "Pokémon Natures",
+          "Raising Pokémon",
+          "Rock types",
+          "Water types"
+        ],
+        "Friends": [
+          "Lance"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Festivals",
+          "Nature",
+          "Reading",
+          "Research",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Cerulean City",
+          "Forests",
+          "Quiet places",
+          "The ocean"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Ghosts",
+          "Veteran Trainers",
+          "Weather",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Flying types",
+          "Pokémon battles"
+        ],
+        "Items": [
+          "Pewter Crunchies",
+          "Pokédexes",
+          "The Earth Badge"
+        ],
+        "Friends": [
+          "Leaf",
+          "Professor Oak",
+          "Red",
+          "Your rival"
+        ],
+        "Hobbies": [
+          "Tough training"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Casual clothes"
+        ],
+        "Places": [
+          "Indigo Plateau",
+          "Pallet Town",
+          "Pasio",
+          "The Kanto region",
+          "Trainer Lodge",
+          "Viridian City"
+        ],
+        "Other": [
+          "Champions",
+          "Gym Leaders",
+          "Partner Pokémon",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Brendan": {
+    "name": "Brendan",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Ice types",
+          "Morpeko",
+          "Nebby",
+          "Normal types",
+          "Pokémon friends",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "The Red Chain"
+        ],
+        "Friends": [
+          "Lusamine",
+          "Palina",
+          "Skyla"
+        ],
+        "Hobbies": [
+          "Math",
+          "Pokéathlons",
+          "Sewing",
+          "Sweets",
+          "Tidying up"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Glasses",
+          "Hoodies",
+          "Uniforms"
+        ],
+        "Places": [
+          "Quiet places",
+          "Vaniville Town",
+          "Viridian City"
+        ],
+        "Other": [
+          "Beautiful lettering",
+          "Ghosts",
+          "Ninjas",
+          "Pearl Clan",
+          "Snow",
+          "Team Yell",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Flying types"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions",
+          "Rare Candy"
+        ],
+        "Hobbies": [
+          "Festivals"
+        ],
+        "Places": [
+          "Lilycove City",
+          "Forests",
+          "Ruins",
+          "Rustboro City",
+          "The ocean"
+        ],
+        "Other": [
+          "Champions",
+          "Parades",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "How to get stronger",
+          "Pokémon battles",
+          "Pokémon Contests",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Lava Cookies",
+          "PokéNavs",
+          "The Red Orb"
+        ],
+        "Friends": [
+          "May",
+          "Norman",
+          "Professor Birch",
+          "Steven"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Making Pokéblocks",
+          "Outer space",
+          "Stars",
+          "Tough training"
+        ],
+        "Fashion": [
+          "Bags",
+          "Hats",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Littleroot Town",
+          "Pasio",
+          "The Hoenn region",
+          "The Johto region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Helping people",
+          "Partner Pokémon",
+          "Secret Bases",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Calem": {
+    "name": "Calem",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Ho-Oh",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Ultra Beasts",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Casteliacones",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Ethan",
+          "Gloria"
+        ],
+        "Hobbies": [
+          "Collecting stones",
+          "Pokéathlons",
+          "Stars"
+        ],
+        "Fashion": [
+          "Lab coats",
+          "Scarves"
+        ],
+        "Places": [
+          "Cerulean City",
+          "Postwick",
+          "Ruins",
+          "The Distortion World",
+          "The ocean"
+        ],
+        "Other": [
+          "Ghosts",
+          "Macro Cosmos",
+          "Ninjas",
+          "Snow",
+          "Supernatural powers",
+          "Team Yell",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "Pokémon Contests",
+          "Water types"
+        ],
+        "Items": [
+          "Potions",
+          "Rare Candy"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Cooking",
+          "Festivals",
+          "Machines",
+          "Reading",
+          "Sweets",
+          "Visiting cafés"
+        ],
+        "Fashion": [
+          "Hairstyles"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Quiet places",
+          "The Johto region"
+        ],
+        "Other": [
+          "Parades",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Pokémon battles",
+          "Pokémon Evolution",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Holo Casters",
+          "Mega Stones",
+          "Pokédexes"
+        ],
+        "Friends": [
+          "Friends",
+          "Serena",
+          "Shauna",
+          "Tierno",
+          "Trevor"
+        ],
+        "Hobbies": [
+          "Pokémon fur styling",
+          "Stylish things"
+        ],
+        "Fashion": [
+          "Bags",
+          "Fashion",
+          "Hats",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Kiloude City",
+          "Pasio",
+          "The Kalos region",
+          "Trainer Lodge",
+          "Vaniville Town"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Partner Pokémon",
+          "Sharing",
+          "The PML",
+          "The strongest Trainer"
+        ]
+      }
+    }
+  },
+  "Carmine": {
+    "name": "Carmine",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Dragon types",
+          "Flying types",
+          "Ho-Oh",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Fame Checkers",
+          "PokéNavs",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Grimsley",
+          "Sina"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Pokéathlons",
+          "Stars",
+          "Training sessions",
+          "Work"
+        ],
+        "Fashion": [
+          "Capes",
+          "Lab coats",
+          "Ribbons"
+        ],
+        "Places": [
+          "Mount Coronet",
+          "Ruins",
+          "Spikemuth",
+          "Verdanturf Town"
+        ],
+        "Other": [
+          "Ancient dynasties",
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "The Ginkgo Guild",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Bug types",
+          "Pokémon Evolution",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions"
+        ],
+        "Friends": [
+          "Friends"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Collections",
+          "Nature",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Sporty clothes"
+        ],
+        "Places": [
+          "The ocean"
+        ],
+        "Other": [
+          "Parades",
+          "Teachers",
+          "The Elite Four"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "Legendary Pokémon",
+          "Love for Pokémon",
+          "Pokémon battles",
+          "Sinistcha"
+        ],
+        "Items": [
+          "Syrupy Apples",
+          "Tera Orbs"
+        ],
+        "Friends": [
+          "Florian",
+          "Juliana",
+          "Kieran",
+          "Nemona"
+        ],
+        "Hobbies": [
+          "Festivals",
+          "Ogre Oustin'",
+          "Photos"
+        ],
+        "Fashion": [
+          "Bags",
+          "Barrettes",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Mossui Town",
+          "Pasio",
+          "Quiet places",
+          "The Crystal Pool",
+          "The Paldea region",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Hating to lose",
+          "Masks",
+          "Partner Pokémon",
+          "Terastallizing",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Cheren": {
+    "name": "Cheren",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Cute Pokémon",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ho-Oh",
+          "Ice types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Pewter Crunchies",
+          "The Toxic Badge",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Gloria",
+          "Lucas",
+          "Piers"
+        ],
+        "Hobbies": [
+          "Pokéathlons",
+          "Selfies",
+          "Stars",
+          "Tidying up",
+          "Visiting cafés"
+        ],
+        "Fashion": [
+          "Bags",
+          "Lab coats",
+          "Scarves",
+          "Uniforms"
+        ],
+        "Places": [
+          "Forests",
+          "Indigo Plateau",
+          "Ruins",
+          "The Burned Tower",
+          "The ocean",
+          "Wyndon"
+        ],
+        "Other": [
+          "Doing small jobs",
+          "Ghosts",
+          "Ninjas",
+          "Parades",
+          "Pilots",
+          "Sandstorms",
+          "Snow",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Nature",
+          "Research",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Fashion"
+        ],
+        "Places": [
+          "Bustling places",
+          "Chargestone Cave",
+          "Quiet places"
+        ],
+        "Other": [
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Normal types",
+          "Pokémon battles",
+          "Pokémon behavior",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Gym Badges",
+          "Potions",
+          "The Basic Badge",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Bianca",
+          "Friends",
+          "Hilbert",
+          "Rosa"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Reading"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Aspertia City",
+          "Pasio",
+          "The Unova region",
+          "Trainer Lodge",
+          "Trainers' Schools"
+        ],
+        "Other": [
+          "Catchphrases",
+          "Gym Leaders",
+          "Partner Pokémon",
+          "Teachers",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Cynthia": {
+    "name": "Cynthia",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Cute Pokémon",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Apricorns",
+          "Casteliacones",
+          "Lumiose Galettes",
+          "Rotom Phones"
+        ],
+        "Friends": [
+          "Your rival"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Cooking",
+          "Pokéathlons",
+          "Stars",
+          "Tidying up"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Hats",
+          "Uniforms"
+        ],
+        "Other": [
+          "Catchphrases",
+          "Ninjas",
+          "People with no sense of direction",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Mega Stones",
+          "Pokédexes"
+        ],
+        "Friends": [
+          "Iris",
+          "Skyla"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Festivals",
+          "Reading",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Eterna City",
+          "Forests",
+          "Sunyshore City",
+          "The Kanto region",
+          "The ocean"
+        ],
+        "Other": [
+          "Ghosts",
+          "Gym Leaders",
+          "Snow",
+          "The Elite Four",
+          "Weather",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Legendary Pokémon",
+          "Love for Pokémon",
+          "Pokémon battles"
+        ],
+        "Items": [
+          "Old Gateaux"
+        ],
+        "Friends": [
+          "Caitlin",
+          "Dawn",
+          "Lucas",
+          "Professor Sycamore"
+        ],
+        "Hobbies": [
+          "Research",
+          "Sinnoh's myths",
+          "Studying history"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Hairstyles",
+          "Swimsuits"
+        ],
+        "Places": [
+          "Bustling places",
+          "Celestic Town",
+          "Pasio",
+          "Quiet places",
+          "Ruins",
+          "The Distortion World",
+          "The Sinnoh region",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Champions",
+          "Colors",
+          "Parades",
+          "Partner Pokémon",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Dawn": {
+    "name": "Dawn",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "Normal types",
+          "Pokémon friends",
+          "Rock types"
+        ],
+        "Items": [
+          "Gramophones",
+          "Pokégear",
+          "Rotom Phones",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Bugsy",
+          "Nessa",
+          "Trevor"
+        ],
+        "Hobbies": [
+          "Pokéathlons",
+          "Stars",
+          "Walking"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Sunglasses",
+          "Uniforms"
+        ],
+        "Places": [
+          "Forests",
+          "Petalburg City",
+          "The ocean",
+          "Ula'ula Island",
+          "Wyndon"
+        ],
+        "Other": [
+          "Captains",
+          "Ghosts",
+          "Ninjas",
+          "Rhyhorn racers",
+          "Speaking quickly",
+          "The Dynamax phenomenon"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Potions"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Cooking",
+          "Exercise",
+          "Festivals",
+          "Outer space",
+          "Reading",
+          "Research"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Ruins",
+          "The Hoenn region"
+        ],
+        "Other": [
+          "Helping people",
+          "Parades",
+          "Veteran Trainers",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "Legendary Pokémon",
+          "Pokémon battles",
+          "Pokémon Contests",
+          "Pokémon Evolution",
+          "Water types"
+        ],
+        "Items": [
+          "Old Gateaux",
+          "Pokédexes"
+        ],
+        "Friends": [
+          "Barry",
+          "Cynthia",
+          "Lucas",
+          "Professor Rowan"
+        ],
+        "Hobbies": [
+          "Sinnoh's myths",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bags",
+          "Hats",
+          "Scarves"
+        ],
+        "Places": [
+          "Bustling places",
+          "Lake Verity",
+          "Mount Coronet",
+          "Pasio",
+          "Quiet places",
+          "The Sinnoh region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Partner Pokémon",
+          "Secret Bases",
+          "The PML",
+          "Windmills"
+        ]
+      }
+    }
+  },
+  "Diantha": {
+    "name": "Diantha",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon friends",
+          "Ultra Beasts",
+          "Water types"
+        ],
+        "Items": [
+          "Lava Cookies",
+          "Pewter Crunchies"
+        ],
+        "Friends": [
+          "Bugsy",
+          "Gladion",
+          "Kris"
+        ],
+        "Hobbies": [
+          "Machines",
+          "Outer space",
+          "Pokéathlons"
+        ],
+        "Fashion": [
+          "Capes",
+          "Glasses",
+          "Lab coats"
+        ],
+        "Places": [
+          "Aspertia City",
+          "Castelia City",
+          "Ruins"
+        ],
+        "Other": [
+          "Doing small jobs",
+          "Ghosts",
+          "Ninjas",
+          "Secret Bases",
+          "Snow",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon behavior",
+          "Pokémon Natures",
+          "Rock types"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions"
+        ],
+        "Friends": [
+          "Dexio",
+          "Sina"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Music",
+          "Stars",
+          "Sweets"
+        ],
+        "Places": [
+          "Forests",
+          "Parfum Palace",
+          "Quiet places",
+          "The ocean",
+          "The Prism Tower"
+        ],
+        "Other": [
+          "The Elite Four",
+          "Veteran Trainers",
+          "Youth"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Legendary Pokémon",
+          "Pokémon battles",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Holo Casters",
+          "Lumiose Galettes",
+          "Mega Stones"
+        ],
+        "Friends": [
+          "Calem",
+          "Professor Sycamore"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Festivals",
+          "Stylish things",
+          "Visiting cafés"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Bags",
+          "Fashion",
+          "Scarves"
+        ],
+        "Places": [
+          "Bustling places",
+          "Lumiose City",
+          "Pasio",
+          "The Battle Chateau",
+          "The Kalos region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Brilliance",
+          "Champions",
+          "Parades",
+          "Partner Pokémon",
+          "Smiling",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Elesa": {
+    "name": "Elesa",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Grass types",
+          "Ice types",
+          "Legendary Pokémon",
+          "Normal types",
+          "Rebellious-looking Pokémon",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Lava Cookies",
+          "League Cards",
+          "Poké Dolls",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Gloria",
+          "Lucas"
+        ],
+        "Hobbies": [
+          "Outer space",
+          "Pokéathlons",
+          "Studying history"
+        ],
+        "Fashion": [
+          "Bags",
+          "Bandannas",
+          "Glasses",
+          "Lab coats",
+          "Uniforms"
+        ],
+        "Places": [
+          "Forests",
+          "Ruins",
+          "Vaniville Town",
+          "Viridian City"
+        ],
+        "Other": [
+          "Captains",
+          "Ghosts",
+          "Macro Cosmos",
+          "Ninjas",
+          "Secret Bases",
+          "Snow",
+          "Team Yell",
+          "Veteran Traîners",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Flying types",
+          "Pokémon behavior",
+          "Pokémon Evolution",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Friends": [
+          "Burgh"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Cooking",
+          "Exercise",
+          "Festivals",
+          "Music",
+          "Stars",
+          "Sweets"
+        ],
+        "Places": [
+          "Aspertia City",
+          "Pasio",
+          "Quiet places",
+          "The Kanto region",
+          "The ocean"
+        ],
+        "Other": [
+          "Weather",
+          "Parades",
+          "Partner Pokémon",
+          "The PML"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Pokémon battles"
+        ],
+        "Items": [
+          "Casteliacones",
+          "Gym Badges",
+          "Sweet Hearts"
+        ],
+        "Friends": [
+          "Bianca",
+          "Caitlin",
+          "Friends",
+          "Skyla"
+        ],
+        "Hobbies": [
+          "Jokes",
+          "Walking"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Headphones"
+        ],
+        "Places": [
+          "Bustling places",
+          "Nimbasa City",
+          "The Unova region",
+          "Trainer Lodge",
+          "Undella Town"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Models"
+        ]
+      }
+    }
+  },
+  "Giovanni": {
+    "name": "Giovanni",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Love for Pokémon",
+          "Normal types",
+          "Pokémon Contests",
+          "Pokémon friends",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Mega Stickpin",
+          "Old Gateaux",
+          "Pokédexes",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Piers",
+          "Rosa"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Adventure",
+          "Collecting stones",
+          "Cooking",
+          "Festivals",
+          "Pokéathlons",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Glasses",
+          "Hoodies"
+        ],
+        "Places": [
+          "Bustling places",
+          "Chargestone Cave",
+          "Lumiose City",
+          "Pokéstar Studios",
+          "Ruins",
+          "Spikemuth",
+          "The ocean",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Catchphrases",
+          "Ghosts",
+          "Ninjas",
+          "Parades",
+          "Snow",
+          "Supernatural powers",
+          "The PML",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Pokémon battles",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Rare Candy"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Reading"
+        ],
+        "Fashion": [
+          "Fashion",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Forests",
+          "Pasio",
+          "Quiet places",
+          "The Alola region"
+        ],
+        "Other": [
+          "Partner Pokémon",
+          "Veteran Trainers",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Legendary Pokémon"
+        ],
+        "Items": [
+          "Gym Badges"
+        ],
+        "Friends": [
+          "Archer",
+          "Ariana",
+          "Petrel",
+          "Proton",
+          "Red"
+        ],
+        "Hobbies": [
+          "Tough training",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Hats",
+          "Suits"
+        ],
+        "Places": [
+          "The Kanto region",
+          "Viridian City"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Silph Co.",
+          "Team Rocket",
+          "Villainous Organizations"
+        ]
+      }
+    }
+  },
+  "Gladion": {
+    "name": "Gladion",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Ho-Oh",
+          "Morpeko"
+        ],
+        "Items": [
+          "Fame Checkers",
+          "Pokédexes",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Sonia",
+          "Shauna"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Camping",
+          "Outer space",
+          "Pokéathlons",
+          "Selfies",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Glasses",
+          "Scarves"
+        ],
+        "Places": [
+          "Ecruteak City",
+          "Forests",
+          "Lake Verity",
+          "Ruins",
+          "Stadiums",
+          "The ocean"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Parades",
+          "Snow",
+          "Pearl Clan",
+          "Silph Co.",
+          "The Dynamax phenomenon",
+          "The Elite Four",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Pokémon behavior",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Potions"
+        ],
+        "Friends": [
+          "Mina"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Reading",
+          "Stars"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Fashion",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Quiet places",
+          "The Hoenn region"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Normal types",
+          "Pokémon battles",
+          "Pokémon Evolution",
+          "Raising Pokémon",
+          "Type: Null"
+        ],
+        "Items": [
+          "Memory drives",
+          "Sync stones",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Family",
+          "Guzma",
+          "Lillie",
+          "Lusamine"
+        ],
+        "Hobbies": [
+          "Stylish things",
+          "Tough training"
+        ],
+        "Fashion": [
+          "Hairstyles"
+        ],
+        "Places": [
+          "Aether Paradise",
+          "Pasio",
+          "The Kanto region",
+          "The Alola region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Aether Foundation",
+          "Doing small jobs",
+          "Partner Pokémon",
+          "Team Skull",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Gloria": {
+    "name": "Gloria",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "Grass types",
+          "Ho-Oh",
+          "Ice types",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Holo Casters",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Grimsley",
+          "Iris"
+        ],
+        "Hobbies": [
+          "Pokéathlons",
+          "Sewing",
+          "Sinnoh's myths"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Headphones",
+          "Scarves"
+        ],
+        "Places": [
+          "Cerulean City",
+          "Melemele Island",
+          "The Distortion World"
+        ],
+        "Other": [
+          "Battle Chatelaines",
+          "Captains",
+          "Frontier Brains",
+          "Ghosts",
+          "Ninjas",
+          "Rhyhorn racers",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Pokémon Evolution",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Reading",
+          "Stars"
+        ],
+        "Fashion": [
+          "Hairstyles"
+        ],
+        "Places": [
+          "Quiet places",
+          "Ruins",
+          "The ocean",
+          "The Unova region"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Parades",
+          "Snow",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Legendary Pokémon",
+          "Pokémon battles"
+        ],
+        "Items": [
+          "Curry",
+          "Dynamax Bands",
+          "Pokédexes",
+          "Rotom Phones",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Bede",
+          "Hop",
+          "Marnie",
+          "Victor",
+          "Your rival"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Camping",
+          "Meals",
+          "Nature",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bags",
+          "Dresses",
+          "Uniforms"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Pasio",
+          "Postwick",
+          "Stadiums",
+          "The Galar region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Partner Pokémon",
+          "The Dynamax phenomenon",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Grimsley": {
+    "name": "Grimsley",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Almighty Sinnoh",
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon friends",
+          "Rock types"
+        ],
+        "Items": [
+          "Holo Casters",
+          "Shalour Sables"
+        ],
+        "Friends": [
+          "Mai",
+          "Melony"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Fishing",
+          "Making Pokéblocks",
+          "Pokéathlons",
+          "Sewing",
+          "Stars",
+          "Sweets",
+          "Walking"
+        ],
+        "Fashion": [
+          "Hats",
+          "Headphones",
+          "Hoodies"
+        ],
+        "Places": [
+          "Celestic Town",
+          "Forests",
+          "Ruins",
+          "Sunyshore City"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Sharing",
+          "Snow",
+          "Teachers",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon Evolution",
+          "Pokémon Natures",
+          "Water types"
+        ],
+        "Items": [
+          "Casteliacones",
+          "Poké Balls",
+          "Sweet Hearts"
+        ],
+        "Friends": [
+          "Burgh",
+          "N"
+        ],
+        "Hobbies": [
+          "Acting"
+        ],
+        "Fashion": [
+          "Formal clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Opelucid City",
+          "Undella Town"
+        ],
+        "Other": [
+          "People who stand out",
+          "Smiling"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Dark types",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Alder",
+          "Caitlin",
+          "Gems",
+          "Shauntal"
+        ],
+        "Hobbies": [
+          "Competitions",
+          "Festivals",
+          "Roulette"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Scarves",
+          "Suits"
+        ],
+        "Places": [
+          "Pasio",
+          "Quiet places",
+          "The Alola region",
+          "The ocean",
+          "The Unova region",
+          "Trainer Lodge",
+          "Victory Road"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Brilliance",
+          "Coins",
+          "Parades",
+          "Partner Pokémon",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Hilda": {
+    "name": "Hilda",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Almighty Sinnoh",
+          "Bug types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Type: Null",
+          "Water types"
+        ],
+        "Items": [
+          "The Beacon Badge",
+          "The Zephyr Badge"
+        ],
+        "Friends": [
+          "Akari",
+          "Eusine",
+          "Professor Sycamore"
+        ],
+        "Hobbies": [
+          "Collecting headbands",
+          "Jokes",
+          "Pokéathlons",
+          "Pokémon fur styling"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Scarves"
+        ],
+        "Places": [
+          "Indigo Plateau",
+          "Stadiums"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "Team Star",
+          "Trainer PR videos",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Pokémon behavior",
+          "Pokémon Natures"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Rare Candy"
+        ],
+        "Hobbies": [
+          "Exercise"
+        ],
+        "Fashion": [
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Forests",
+          "Mistralton City",
+          "Quiet places",
+          "Ruins",
+          "The ocean",
+          "Undella Town"
+        ],
+        "Other": [
+          "Smiling",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Casteliacones",
+          "Sweet Hearts",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Bianca",
+          "Cheren",
+          "Hilbert",
+          "N"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Ferris wheels",
+          "Festivals",
+          "Musicals",
+          "Stars",
+          "Sweets",
+          "Tough training",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Bags",
+          "Casual clothes",
+          "Hairstyles",
+          "Hats"
+        ],
+        "Places": [
+          "Bustling places",
+          "Nimbasa City",
+          "Pasio",
+          "The Battle Subway",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Hating to lose",
+          "Parades",
+          "Partner Pokémon",
+          "The PML",
+          "The Subway Bosses"
+        ]
+      }
+    }
+  },
+  "Iono": {
+    "name": "Iono",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Legendary Pokémon",
+          "Normal types",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Sweet Hearts",
+          "The Bolt Badge",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Burgh",
+          "Diantha"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Pokéathlons"
+        ],
+        "Fashion": [
+          "Hats"
+        ],
+        "Places": [
+          "Chargestone Cave",
+          "Eterna City",
+          "Forests",
+          "Nimbasa City",
+          "Pokéstar Studios",
+          "Quiet places",
+          "Ruins"
+        ],
+        "Other": [
+          "Ninjas",
+          "Snow",
+          "The Dynamax phenomenon",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Ghost types",
+          "Pokémon Evolution",
+          "Pokémon Natures"
+        ],
+        "Items": [
+          "Poké Balls"
+        ],
+        "Friends": [
+          "Arven",
+          "Poppy"
+        ],
+        "Hobbies": [
+          "Cooking",
+          "Music",
+          "Stars",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Casual clothes"
+        ],
+        "Places": [
+          "Mesagoza",
+          "The ocean"
+        ],
+        "Other": [
+          "Colors",
+          "Ghosts"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Electric types",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Gym Badges",
+          "Rotom Phones",
+          "Tera Shards"
+        ],
+        "Friends": [
+          "Clavell",
+          "Grusha",
+          "Tulip"
+        ],
+        "Hobbies": [
+          "Festivals",
+          "Live streaming",
+          "Photos",
+          "Selfies",
+          "Stylish things"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Dresses",
+          "Fashion",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Bustling places",
+          "Levincia",
+          "Pasio",
+          "The Paldea region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Dreams",
+          "Gym Leaders",
+          "Parades",
+          "Partner Pokémon",
+          "People who stand out",
+          "Terastallizing",
+          "The PML",
+          "Word choice"
+        ]
+      }
+    }
+  },
+  "Irida": {
+    "name": "Irida",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "Grass types",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types"
+        ],
+        "Items": [
+          "Lava Cookies",
+          "Rotom Phones",
+          "Wishing Stars",
+          "Xtransceivers",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Grimsley",
+          "Hugh",
+          "Iris",
+          "Leaf"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Pokéathlons",
+          "Stars",
+          "Time"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Scarves",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Pokéstar Studios",
+          "Ruins",
+          "Spikemuth",
+          "Ultra Space",
+          "Wyndon"
+        ],
+        "Other": [
+          "Ghosts",
+          "Parades",
+          "People with no sense of direction",
+          "The Dynamax phenomenon",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Raising Pokémon"
+        ],
+        "Hobbies": [
+          "Cooking",
+          "Festivals",
+          "Reading",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Fashion"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Quiet places",
+          "The ocean"
+        ],
+        "Other": [
+          "Diamond Clan",
+          "Ninjas",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Almighty Sinnoh",
+          "Dragon types",
+          "Ice types",
+          "Legendary Pokémon",
+          "Pokémon battles",
+          "Pokémon behavior",
+          "Pokémon Natures",
+          "Water types"
+        ],
+        "Items": [
+          "Apricorns",
+          "Celestica Flute"
+        ],
+        "Friends": [
+          "Adaman",
+          "Calaba",
+          "Palina"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Music",
+          "Nature",
+          "Space"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Bags",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Alabaster Icelands",
+          "Mount Coronet",
+          "Pasio",
+          "The Hisui region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Being sensitive to hot weather",
+          "Partner Pokémon",
+          "Pearl Clan",
+          "Space-time distortion",
+          "Snow",
+          "The PML",
+          "Veteran Trainers"
+        ]
+      }
+    }
+  },
+  "Iris": {
+    "name": "Iris",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Kyogre",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "The Fog Badge",
+          "Towels"
+        ],
+        "Friends": [
+          "Calem",
+          "Palina"
+        ],
+        "Hobbies": [
+          "Making Pokéblocks",
+          "Math",
+          "Pokéathlons",
+          "Puzzles",
+          "Sinnoh's myths"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Cardigans"
+        ],
+        "Places": [
+          "Coumarine City",
+          "Ruins",
+          "The Battle Chateau"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Old royalty",
+          "Snow",
+          "The Ginkgo Guild",
+          "Villainous organizations",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Cute Pokémon",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Potions",
+          "Rare Candy"
+        ],
+        "Friends": [
+          "Caitlin",
+          "Elesa"
+        ],
+        "Hobbies": [
+          "Sweets"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Castelia City",
+          "Quiet places"
+        ],
+        "Other": [
+          "Teachers"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Legendary Pokémon",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Casteliacones",
+          "The Legend Badge",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Alder",
+          "Bianca",
+          "Burgh"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Festivals",
+          "Nature",
+          "Stars",
+          "Tough training"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Hairstyles",
+          "Ribbons"
+        ],
+        "Places": [
+          "Forests",
+          "Opelucid City",
+          "Pasio",
+          "The ocean",
+          "The Unova region",
+          "The Village of Dragons",
+          "Trainer Lodge",
+          "Undella Town"
+        ],
+        "Other": [
+          "Champions",
+          "Gym Leaders",
+          "Parades",
+          "Partner Pokémon",
+          "The PML",
+          "The strongest Trainer",
+          "Veteran Trainers"
+        ]
+      }
+    }
+  },
+  "Jasmine": {
+    "name": "Jasmine",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Nebby",
+          "Normal types",
+          "Water types"
+        ],
+        "Items": [
+          "Mine Badge",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Iris",
+          "Piers"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Adventure",
+          "Collecting stones",
+          "Outer space",
+          "Stars"
+        ],
+        "Fashion": [
+          "Bags",
+          "Headphones",
+          "Scarves",
+          "Suits"
+        ],
+        "Places": [
+          "Castelia City",
+          "Coumarine City",
+          "Forests",
+          "Ruins",
+          "The Battle Subway"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Being sensitive to hot weather",
+          "Ghosts",
+          "Hating to lose",
+          "Ninjas",
+          "Snow",
+          "Old royalty",
+          "The Dynamax phenomenon",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "How to get stronger"
+        ],
+        "Items": [
+          "Poké Balls"
+        ],
+        "Friends": [
+          "Professor Elm",
+          "Will"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Reading",
+          "Research"
+        ],
+        "Fashion": [
+          "Fashion"
+        ],
+        "Places": [
+          "Bustling places",
+          "The Hoenn region"
+        ],
+        "Other": [
+          "Parades",
+          "The PML",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Amphy",
+          "Pokémon battles",
+          "Pokémon Contests",
+          "Raising Pokémon",
+          "Rock types",
+          "Steel types"
+        ],
+        "Items": [
+          "Gym Badges",
+          "Mineral Badge",
+          "Potions",
+          "Rage Candy Bars"
+        ],
+        "Friends": [
+          "Clair",
+          "Erika",
+          "Whitney"
+        ],
+        "Hobbies": [
+          "Meals",
+          "Pokéathlons",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Dresses",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Olivine City Lighthouse",
+          "Pasio",
+          "Quiet places",
+          "The Johto region",
+          "The ocean",
+          "The Sinnoh region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Partner Pokémon"
+        ]
+      }
+    }
+  },
+  "Kabu": {
+    "name": "Kabu",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Legendary Pokémon",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "The Basic Badge",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Brendan",
+          "Kris"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Collecting stones",
+          "Flowers",
+          "Pokéathlons",
+          "Stars",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bags",
+          "Bandannas",
+          "Glasses"
+        ],
+        "Places": [
+          "Aspertia City",
+          "Forests",
+          "Pokéstar Studios",
+          "Ruins",
+          "The ocean"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Parades",
+          "Snow",
+          "The Subway Bosses",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon behavior",
+          "Pokémon Natures"
+        ],
+        "Items": [
+          "Poké Balls"
+        ],
+        "Friends": [
+          "Melony"
+        ],
+        "Hobbies": [
+          "Festivals",
+          "Jokes",
+          "Reading"
+        ],
+        "Fashion": [
+          "Fashion"
+        ],
+        "Places": [
+          "Bustling places",
+          "Hammerlocke Stadium",
+          "Quiet places",
+          "The Johto region"
+        ],
+        "Other": [
+          "The minor division"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Gym Badges",
+          "League Cards",
+          "The Fire Badge",
+          "Towels"
+        ],
+        "Friends": [
+          "Leon",
+          "Milo",
+          "Nessa",
+          "Piers"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Tough training",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Sporty clothes",
+          "Uniforms"
+        ],
+        "Places": [
+          "Motostoke Stadium",
+          "Pasio",
+          "The Galar region",
+          "The Hoenn region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Champions",
+          "Gym Leaders",
+          "Partner Pokémon",
+          "The Dynamax phenomenon",
+          "The PML",
+          "Veteran Trainers",
+          "Weather"
+        ]
+      }
+    }
+  },
+  "Lacey": {
+    "name": "Lacey",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Almighty Sinnoh",
+          "Amphy",
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Legendary Pokémon",
+          "Normal types",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "The Beacon Badge",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Archie",
+          "Melli",
+          "Nanu"
+        ],
+        "Hobbies": [
+          "Fishing",
+          "Machines",
+          "Pokéathlons",
+          "Stars",
+          "Work"
+        ],
+        "Fashion": [
+          "Headphones",
+          "Lab coats",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Chargestone Cave",
+          "Ecruteak City",
+          "Ruins",
+          "Trainers' Schools"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Old royalty",
+          "Snow",
+          "Trainer PR videos",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Items": [
+          "Poké Balls",
+          "Potions"
+        ],
+        "Friends": [
+          "Grusha",
+          "Tulip"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Festivals",
+          "Photos"
+        ],
+        "Fashion": [
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Cabo Poco",
+          "Forests",
+          "Mesagoza",
+          "The ocean"
+        ],
+        "Other": [
+          "Champions",
+          "Parades",
+          "Veteran Trainers"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Cute Pokémon",
+          "Fairy types",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Rotom Phones",
+          "Tera Orbs",
+          "Tera Shards"
+        ],
+        "Friends": [
+          "Kieran",
+          "Poppy"
+        ],
+        "Hobbies": [
+          "Reading",
+          "Stylish things",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Cardigans",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Bustling places",
+          "Pasio",
+          "Quiet places",
+          "The Paldea region",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Catchphrases",
+          "Fancy Lady",
+          "Partner Pokémon",
+          "The Elite Four",
+          "The PML",
+          "Thoughtfulness"
+        ]
+      }
+    }
+  },
+  "Lana": {
+    "name": "Lana",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ho-Oh",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Apricorns",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Caitlin",
+          "Ethan"
+        ],
+        "Hobbies": [
+          "Collecting stones",
+          "Investigating myths",
+          "Pokéathlons",
+          "Selfies"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Headphones",
+          "Lab coats",
+          "Scarves"
+        ],
+        "Places": [
+          "Mount Coronet",
+          "Ruins",
+          "Sprout Tower",
+          "Vaniville Town"
+        ],
+        "Other": [
+          "Beautiful lettering",
+          "Ghosts",
+          "Models",
+          "Ninjas",
+          "Rhyhorn racers",
+          "Snow",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Bug types",
+          "Pokémon behavior",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Potions",
+          "Rare Candy"
+        ],
+        "Friends": [
+          "Nanu",
+          "Professor Kukui"
+        ],
+        "Hobbies": [
+          "Festivals",
+          "Stars",
+          "Sweets"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Mount Lanakila",
+          "Quiet places",
+          "Ula'ula Island"
+        ],
+        "Other": [
+          "Colors",
+          "Parades",
+          "The PML",
+          "Thoughtfulness",
+          "Veteran Trainers"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Kyogre",
+          "Pokémon battles",
+          "Raising Pokémon",
+          "Water types"
+        ],
+        "Items": [
+          "Fishing rods",
+          "Net Balls",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Family",
+          "Kiawe",
+          "Mallow"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Fishing",
+          "Jokes",
+          "Nature"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Sporty clothes",
+          "Swimsuits"
+        ],
+        "Places": [
+          "Akala Island",
+          "Pasio",
+          "The Alola region",
+          "The ocean",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Captains",
+          "Partner Pokémon",
+          "Weather"
+        ]
+      }
+    }
+  },
+  "Lance": {
+    "name": "Lance",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Grass types",
+          "Normal types",
+          "Ho-Oh",
+          "Ice types",
+          "Pokémon Contests",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Lava Cookies",
+          "League Cards",
+          "Slowpoke Tails",
+          "The Bolt Badge"
+        ],
+        "Friends": [
+          "Lysandre",
+          "Victor"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Fieldwork",
+          "Pokéathlons",
+          "Machines",
+          "Stars",
+          "Studying history",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Lab coats",
+          "Suits"
+        ],
+        "Places": [
+          "Lumiose City",
+          "Ruins",
+          "Spikemuth",
+          "Vaniville Town"
+        ],
+        "Other": [
+          "Battle Chatelaines",
+          "Ghosts",
+          "Macro Cosmos",
+          "Parades",
+          "Snow",
+          "The Subway Bosses",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Flying types",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Potions"
+        ],
+        "Friends": [
+          "Professor Elm",
+          "Professor Oak"
+        ],
+        "Hobbies": [
+          "Festivals",
+          "Nature"
+        ],
+        "Fashion": [
+          "Hairstyles"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Quiet places",
+          "The ocean"
+        ],
+        "Other": [
+          "Ninjas"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "How to get stronger",
+          "Pokémon battles",
+          "Pokémon Evolution",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Dragon Fangs",
+          "Rage Candy Bars"
+        ],
+        "Friends": [
+          "Clair",
+          "Red",
+          "Silver"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Tough training",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Capes",
+          "Fashion",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Blackthorn City",
+          "Indigo Plateau",
+          "Pasio",
+          "The Dragon's Den",
+          "Trainer Lodge",
+          "Victory Road"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Champions",
+          "Hyper Beam",
+          "Partner Pokémon",
+          "The Elite Four",
+          "The PML",
+          "Veteran Trainers"
+        ]
+      }
+    }
+  },
+  "Larry": {
+    "name": "Larry",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Almighty Sinnoh",
+          "Bug types",
+          "Dragon types",
+          "Grass types",
+          "Ice types",
+          "Legendary Pokémon",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "The Basic Badge",
+          "The Zephyr Badge"
+        ],
+        "Friends": [
+          "Bianca",
+          "Grimsley",
+          "Sonia"
+        ],
+        "Hobbies": [
+          "Festivals",
+          "Pokéathlons",
+          "Selfies",
+          "Tough training",
+          "Training sessions",
+          "Work"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Casual clothes",
+          "Hoodies"
+        ],
+        "Places": [
+          "Bustling places",
+          "Devon Corporation",
+          "Ruins",
+          "The Battle Subway"
+        ],
+        "Other": [
+          "Ghosts",
+          "Impatience",
+          "Ninjas",
+          "Parades",
+          "People who stand out",
+          "Snow",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Pokémon behavior"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions"
+        ],
+        "Friends": [
+          "Geeta",
+          "Nemona"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Stars"
+        ],
+        "Fashion": [
+          "Fashion"
+        ],
+        "Places": [
+          "Cabo Poco",
+          "Forests",
+          "Pasio",
+          "The ocean",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "The PML",
+          "The strongest Trainer"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Dudunsparce",
+          "Flying types",
+          "Normal types",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Gym Badges",
+          "Herba Mystica",
+          "Tera Orbs"
+        ],
+        "Friends": [
+          "Poppy",
+          "Rika"
+        ],
+        "Hobbies": [
+          "Business trips",
+          "Cooking",
+          "Meals",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bags",
+          "Hairstyles",
+          "Suits"
+        ],
+        "Places": [
+          "Mesagoza",
+          "Quiet places",
+          "The Paldea region",
+          "The Treasure Eatery"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Partner Pokémon",
+          "Terastallizing",
+          "The Elite Four",
+          "Traps in Gyms"
+        ]
+      }
+    }
+  },
+  "Leaf": {
+    "name": "Leaf",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Ice types",
+          "Pokémon Contests",
+          "Rock types",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Burgh",
+          "Iris"
+        ],
+        "Hobbies": [
+          "Music",
+          "Pokéathlons",
+          "Reading",
+          "Stars",
+          "Studying history",
+          "Time"
+        ],
+        "Fashion": [
+          "Scarves",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Celestic Town",
+          "Mount Lanakila",
+          "Ruins",
+          "The ocean",
+          "Wyndon"
+        ],
+        "Other": [
+          "Beautiful lettering",
+          "Clairvoyance",
+          "Frontier Brains",
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "Team Yell",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Water types"
+        ],
+        "Items": [
+          "Poké Balls"
+        ],
+        "Friends": [
+          "Misty"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Cerulean City",
+          "Forests",
+          "Quiet places",
+          "The Johto region"
+        ],
+        "Other": [
+          "Parades",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "Love for Pokémon",
+          "Normal types",
+          "Pokémon battles",
+          "Pokémon Evolution",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Fame Checkers",
+          "Gym Badges",
+          "Pewter Crunchies",
+          "Pokédexes",
+          "Sync stones"
+        ],
+        "Friends": [
+          "Blue",
+          "Professor Oak",
+          "Red",
+          "Your rival"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Flowers",
+          "Nature"
+        ],
+        "Fashion": [
+          "Bags",
+          "Hairstyles",
+          "Hats",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Pallet Town",
+          "Pasio",
+          "The Kanto region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Champions",
+          "Partner Pokémon",
+          "The PML",
+          "The strongest Trainer"
+        ]
+      }
+    }
+  },
+  "Lear": {
+    "name": "Lear",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Cute Pokémon",
+          "Dragon types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Water types",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Holo Casters",
+          "Mega Stones",
+          "Rotom Phones",
+          "Wishing Stars",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Bugsy",
+          "Maxie",
+          "Sina"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Collecting stones",
+          "Pokéathlons",
+          "Studying history"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Hats"
+        ],
+        "Places": [
+          "Aether House",
+          "Coumarine City",
+          "Quiet places",
+          "Ultra Space",
+          "Wyndon"
+        ],
+        "Other": [
+          "Evil schemes",
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "Team Break",
+          "Thoughtfulness",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Flying types"
+        ],
+        "Friends": [
+          "Friends"
+        ],
+        "Hobbies": [
+          "Meals",
+          "Music",
+          "Nature",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Hairstyles"
+        ],
+        "Places": [
+          "Forests",
+          "Ruins",
+          "The ocean"
+        ],
+        "Other": [
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Hoopa",
+          "How to get stronger",
+          "Pokémon battles",
+          "Psychic types",
+          "Rebellious-looking Pokémon"
+        ],
+        "Items": [
+          "Poryphones",
+          "Sync stones"
+        ],
+        "Friends": [
+          "Professor Bellis",
+          "Rachel",
+          "Sawyer"
+        ],
+        "Hobbies": [
+          "Festivals",
+          "Stars",
+          "Stylish things",
+          "Work"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Fashion",
+          "Suits",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Artificial islands",
+          "Bustling places",
+          "Centra City",
+          "Pasio",
+          "Trainer Lodge",
+          "Treasure vaults"
+        ],
+        "Other": [
+          "Being rich",
+          "Hating to lose",
+          "Parades",
+          "Partner Pokémon",
+          "Royal families",
+          "The PML",
+          "The strongest Trainer"
+        ]
+      }
+    }
+  },
+  "Leon": {
+    "name": "Leon",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dudunsparce",
+          "Flying types",
+          "Grass types",
+          "Ho-Oh",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Pokégear",
+          "Tera Orbs"
+        ],
+        "Friends": [
+          "Eusine",
+          "Professor Rowan"
+        ],
+        "Hobbies": [
+          "Meals",
+          "Pokéathlons",
+          "Pokémon fur styling",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Cardigans"
+        ],
+        "Places": [
+          "Cabo Poco",
+          "Ecruteak City",
+          "Ruins"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Silph Co.",
+          "Trainer PR videos"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Pokémon behavior",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Pokédexes",
+          "Rotom Phones"
+        ],
+        "Friends": [
+          "Bede",
+          "Melony"
+        ],
+        "Hobbies": [
+          "Camping",
+          "Exercise"
+        ],
+        "Fashion": [
+          "Scarves"
+        ],
+        "Places": [
+          "Quiet places",
+          "Spikemuth",
+          "The ocean"
+        ],
+        "Other": [
+          "Macro Cosmos",
+          "Smiling",
+          "Snow",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Dynamax Bands",
+          "League Cards",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Hop",
+          "Raihan",
+          "Sonia"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Battles",
+          "Festivals",
+          "Stars",
+          "Tough training",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Capes",
+          "Hats",
+          "Sporty clothes",
+          "Uniforms"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Pasio",
+          "Postwick",
+          "Stadiums",
+          "The Battle Tower",
+          "The Galar region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Parades",
+          "Partner Pokémon",
+          "People with no sense of direction",
+          "The PML",
+          "The strongest Trainer",
+          "Veteran Trainers"
+        ]
+      }
+    }
+  },
+  "Lillie": {
+    "name": "Lillie",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon battles",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Apricorns",
+          "Gym Badges",
+          "Holo Casters",
+          "Old Gateaux"
+        ],
+        "Friends": [
+          "Dawn",
+          "Ethan"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Ferris wheels",
+          "Pokéathlons",
+          "Sewing",
+          "Stars",
+          "Visiting cafés"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Hats",
+          "Swimsuits"
+        ],
+        "Places": [
+          "Petalburg City",
+          "Ruins",
+          "Vaniville Town"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Ghosts",
+          "Macro Cosmos",
+          "Ninjas",
+          "Snow",
+          "The PML",
+          "The strongest Trainer",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Raising Pokémon"
+        ],
+        "Friends": [
+          "Acerola",
+          "Mina"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Tidying up"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Forests",
+          "Melemele Island",
+          "Quiet places",
+          "The Kanto region",
+          "The ocean",
+          "Ula'ula Island"
+        ],
+        "Other": [
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Cute Pokémon",
+          "Love for Pokémon",
+          "Nebby"
+        ],
+        "Items": [
+          "Big Malasadas",
+          "Poké Dolls",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Gladion",
+          "Lusamine",
+          "Professor Kukui"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Reading",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bags",
+          "Dresses"
+        ],
+        "Places": [
+          "Bustling places",
+          "Pasio",
+          "The Alola region",
+          "Trainer Lodge",
+          "Ultra Space"
+        ],
+        "Other": [
+          "Captains",
+          "Parades",
+          "Partner Pokémon",
+          "People with no sense of direction",
+          "Thoughtfulness",
+          "Weather"
+        ]
+      }
+    }
+  },
+  "Lusamine": {
+    "name": "Lusamine",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "How to get stronger",
+          "Ice types",
+          "Normal types",
+          "Pokémon friends",
+          "Rebellious-looking Pokémon",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Apricorns",
+          "Celestica Flute",
+          "Mega Stickpin"
+        ],
+        "Friends": [
+          "Barry",
+          "Petrel"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Collecting stones",
+          "Festivals",
+          "Pokéathlons",
+          "Selfies",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Scarves",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Parfum Palace",
+          "Ruins"
+        ],
+        "Other": [
+          "Clairvoyance",
+          "Ghosts",
+          "Ninjas",
+          "Secret Bases",
+          "Snow",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Bug types"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions"
+        ],
+        "Friends": [
+          "Nanu",
+          "Professor Kukui"
+        ],
+        "Hobbies": [
+          "Reading",
+          "Sinnoh's myths"
+        ],
+        "Places": [
+          "Akala Island",
+          "Bustling places",
+          "Forests",
+          "Quiet places",
+          "The ocean",
+          "Ula'ula Island"
+        ],
+        "Other": [
+          "Parades",
+          "Thoughtfulness",
+          "Word choice"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Legendary Pokémon",
+          "Love for Pokémon",
+          "Type: Null",
+          "Ultra Beasts"
+        ],
+        "Items": [
+          "Beast Balls",
+          "Memory drives"
+        ],
+        "Friends": [
+          "Family",
+          "Gladion",
+          "Lillie"
+        ],
+        "Hobbies": [
+          "Collections",
+          "Research",
+          "Stars",
+          "Stylish things"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Dresses",
+          "Fashion",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Aether House",
+          "Aether Paradise",
+          "Pasio",
+          "Poké Pelago",
+          "The Alola region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Aether Foundation",
+          "Partner Pokémon",
+          "Team Skull",
+          "The PML",
+          "Youth"
+        ]
+      }
+    }
+  },
+  "Marnie": {
+    "name": "Marnie",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Legendary Pokémon",
+          "Normal types",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Lava Cookies",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Diantha",
+          "Hilbert",
+          "Lance"
+        ],
+        "Hobbies": [
+          "Math",
+          "Pokéathlons",
+          "Stars",
+          "Studying history"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Glasses"
+        ],
+        "Places": [
+          "Akala Island",
+          "Lumiose City",
+          "Ruins",
+          "Ultra Space"
+        ],
+        "Other": [
+          "Ninjas",
+          "Secret Bases",
+          "Snow",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Raising Pokémon"
+        ],
+        "Friends": [
+          "Nessa"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Machines",
+          "Nature",
+          "Tidying up"
+        ],
+        "Places": [
+          "Hulbury",
+          "Forests",
+          "The Hoenn region",
+          "The ocean"
+        ],
+        "Other": [
+          "Ghosts",
+          "Parades",
+          "The PML",
+          "Weather",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Brave Pokémon",
+          "Cute Pokémon",
+          "Morpeko",
+          "Pokémon battles",
+          "Rebellious-looking Pokémon"
+        ],
+        "Items": [
+          "Dynamax Bands",
+          "Gym Badges",
+          "League Cards",
+          "Rare Candy",
+          "Rotom Phones"
+        ],
+        "Friends": [
+          "Family",
+          "Gloria",
+          "Piers"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Sweets",
+          "Music"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Bags",
+          "Dresses",
+          "Hairstyles",
+          "Uniforms"
+        ],
+        "Places": [
+          "Bustling places",
+          "Pasio",
+          "Quiet places",
+          "Spikemuth",
+          "The Galar region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Hating to lose",
+          "Partner Pokémon",
+          "The Dynamax phenomenon",
+          "Smiling",
+          "Word choice"
+        ]
+      }
+    }
+  },
+  "May": {
+    "name": "May",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Ultra Beasts"
+        ],
+        "Items": [
+          "Casteliacones",
+          "Pokégear",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Archie",
+          "Diantha",
+          "Maxie",
+          "Professor Rowan"
+        ],
+        "Hobbies": [
+          "Pokéathlons",
+          "Visiting cafés"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Scarves"
+        ],
+        "Places": [
+          "Aspertia City",
+          "Pallet Town",
+          "Ruins",
+          "Undella Town"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Beautiful lettering",
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "The Dynamax phenomenon",
+          "The strongest Trainer",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon battles",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Gym Badges"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Forests",
+          "Petalburg City",
+          "Quiet places",
+          "The Alola region",
+          "The Johto region",
+          "The ocean"
+        ],
+        "Other": [
+          "Weather",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Cute Pokémon",
+          "Grass types",
+          "Pokémon Contests",
+          "Pokémon Evolution",
+          "Water types"
+        ],
+        "Items": [
+          "Lava Cookies",
+          "Pokédexes",
+          "PokéNavs"
+        ],
+        "Friends": [
+          "Brendan",
+          "Professor Birch",
+          "Steven"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Collecting headbands",
+          "Fieldwork",
+          "Making Pokéblocks",
+          "Outer space",
+          "Research",
+          "Stars",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Bandannas",
+          "Hairstyles",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Pasio",
+          "The Hoenn region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Helping people",
+          "Parades",
+          "Partner Pokémon",
+          "Secret Bases",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Morty": {
+    "name": "Morty",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Ultra Beasts",
+          "Water types"
+        ],
+        "Items": [
+          "The Ghost Badge",
+          "Wishing Stars",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Dawn",
+          "Leon"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Pokéathlons",
+          "Research",
+          "Selfies",
+          "Stars",
+          "Walking"
+        ],
+        "Fashion": [
+          "Bags",
+          "Hats",
+          "Uniforms"
+        ],
+        "Places": [
+          "Bustling places",
+          "Sunyshore City",
+          "Wyndon"
+        ],
+        "Other": [
+          "Ninjas",
+          "Parades",
+          "Snow",
+          "The Dynamax phenomenon",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions"
+        ],
+        "Friends": [
+          "Whitney"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Nature",
+          "Reading",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Fashion",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Forests",
+          "Ruins",
+          "Sprout Tower",
+          "The Kalos region",
+          "The ocean"
+        ],
+        "Other": [
+          "Champions",
+          "Veteran Trainers",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Ghost types",
+          "Ho-Oh",
+          "Legendary Pokémon",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Rage Candy Bars",
+          "The Fog Badge"
+        ],
+        "Friends": [
+          "Ethan",
+          "Eusine",
+          "Kris",
+          "Lyra"
+        ],
+        "Hobbies": [
+          "Tough training"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Scarves"
+        ],
+        "Places": [
+          "Ecruteak City",
+          "Pasio",
+          "Quiet places",
+          "The Burned Tower",
+          "The Johto region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Clairvoyance",
+          "Ghosts",
+          "Gym Leaders",
+          "Partner Pokémon",
+          "Supernatural powers",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "N": {
+    "name": "N",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Cute Pokémon",
+          "Flying types",
+          "Grass types",
+          "Morpeko",
+          "Normal types",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Pokégear",
+          "Shalour Sables",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Gloria",
+          "Leaf",
+          "Silver"
+        ],
+        "Hobbies": [
+          "Making Pokéblocks",
+          "Pokéathlons",
+          "Stars"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Scarves"
+        ],
+        "Places": [
+          "Pallet Town",
+          "Ruins",
+          "Spikemuth"
+        ],
+        "Other": [
+          "Battle Chatelaines",
+          "Macro Cosmos",
+          "Ninjas",
+          "People who stand out",
+          "Snow",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Ice types",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Gym Badges",
+          "Potions"
+        ],
+        "Friends": [
+          "Elesa",
+          "Grimsley"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Nature",
+          "Reading",
+          "Sweets",
+          "Tidying up"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Aspertia City",
+          "Bustling places",
+          "Castelia City",
+          "Forests",
+          "Quiet places",
+          "The ocean"
+        ],
+        "Other": [
+          "Ghosts",
+          "Gym Leaders",
+          "Parades",
+          "The PML",
+          "Weather",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Legendary Pokémon",
+          "Pokémon friends",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Casteliacones"
+        ],
+        "Friends": [
+          "Hilbert",
+          "Hilda"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Ferris wheels",
+          "Math"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Hairstyles",
+          "Hats"
+        ],
+        "Places": [
+          "Chargestone Cave",
+          "Nimbasa City",
+          "Pasio",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Dreams",
+          "Partner Pokémon",
+          "Speaking quickly"
+        ]
+      }
+    }
+  },
+  "Penny": {
+    "name": "Penny",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Almighty Sinnoh",
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Big Malasadas",
+          "The Beacon Badge"
+        ],
+        "Friends": [
+          "Mai",
+          "Tierno"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Festivals",
+          "Pokéathlons",
+          "Tidying up"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Suits"
+        ],
+        "Places": [
+          "Bustling places",
+          "Eterna City",
+          "Ruins",
+          "The Hisui region"
+        ],
+        "Other": [
+          "Captains",
+          "Ghosts",
+          "Parades",
+          "Snow",
+          "Team Skull",
+          "The PML",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Legendary Pokémon",
+          "Pokémon battles"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions"
+        ],
+        "Hobbies": [
+          "Reading",
+          "Sweets",
+          "Work"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Cabo Paco",
+          "Forests",
+          "Levincia",
+          "The ocean"
+        ],
+        "Other": [
+          "Ninjas",
+          "Teachers",
+          "Word choice"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Normal types",
+          "Pokémon Evolution",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Rotom Phones",
+          "Tera Orbs",
+          "Tera Shards"
+        ],
+        "Friends": [
+          "Atticus",
+          "Eri",
+          "Giacomo",
+          "Mela",
+          "Ortega"
+        ],
+        "Hobbies": [
+          "Collections",
+          "Machines",
+          "Math",
+          "Stars"
+        ],
+        "Fashion": [
+          "Bags",
+          "Glasses",
+          "Hairstyles",
+          "Hoodies"
+        ],
+        "Places": [
+          "Mesagoza",
+          "Pasio",
+          "Quiet places",
+          "The Galar region",
+          "The Paldea region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Partner Pokémon",
+          "Team Star",
+          "Terastallizing",
+          "Thoughtfulness"
+        ]
+      }
+    }
+  },
+  "Piers": {
+    "name": "Piers",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Almighty Sinnoh",
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Dynamax Bands",
+          "Net Balls",
+          "The Toxic Badge"
+        ],
+        "Friends": [
+          "Archie",
+          "Trevor"
+        ],
+        "Hobbies": [
+          "Making Pokéblocks",
+          "Picnics",
+          "Pokéathlons",
+          "Stars",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Cardigans",
+          "Hats"
+        ],
+        "Places": [
+          "Ecruteak City",
+          "Forests",
+          "Ruins",
+          "The Prism Tower"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "Team Rocket",
+          "The Dynamax phenomenon",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Gym Badges",
+          "Rotom Phones"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Battles",
+          "Festivals",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Fashion",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Hulbury",
+          "Quiet places",
+          "Stadiums",
+          "The ocean",
+          "Wyndon"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Helping people",
+          "Parades"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Dark types",
+          "Morpeko",
+          "Pokémon battles",
+          "Rebellious-looking Pokémon"
+        ],
+        "Items": [
+          "Dusk Balls",
+          "League Cards"
+        ],
+        "Friends": [
+          "Family",
+          "Hop",
+          "Leon",
+          "Marnie",
+          "Raihan"
+        ],
+        "Hobbies": [
+          "Concerts",
+          "Music",
+          "Songs"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Hairstyles",
+          "Uniforms"
+        ],
+        "Places": [
+          "Pasio",
+          "Spikemuth",
+          "The Galar region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Dreams",
+          "Encores",
+          "Partner Pokémon",
+          "Team Yell",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Professor Sycamore": {
+    "name": "Professor Sycamore",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Dragon types",
+          "Ice types",
+          "Nebby",
+          "Normal types",
+          "Pokémon Contests",
+          "Ultra Beasts"
+        ],
+        "Items": [
+          "Lava Cookies"
+        ],
+        "Friends": [
+          "Lance"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Making Pokéblocks",
+          "Pokéathlons",
+          "Stars"
+        ],
+        "Fashion": [
+          "Bags",
+          "Glasses",
+          "Scarves"
+        ],
+        "Places": [
+          "Cerulean City",
+          "Petalburg City",
+          "Ruins"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Ninjas",
+          "People with no sense of direction",
+          "Snow",
+          "The Subway Bosses"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "Grass types",
+          "Pokémon battles",
+          "Raising Pokémon",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Gym Badges"
+        ],
+        "Hobbies": [
+          "Cooking",
+          "Exercise",
+          "Festivals",
+          "Reading",
+          "Sinnoh's myths",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Coumarine City",
+          "Forests",
+          "The ocean",
+          "The Sinnoh region",
+          "Vaniville Town"
+        ],
+        "Other": [
+          "Ghosts",
+          "Gym Leaders",
+          "Parades",
+          "The Elite Four",
+          "The PML",
+          "Veteran Trainers",
+          "Weather",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Pokémon behavior",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Gramophones",
+          "Lumiose Galettes",
+          "Mega Stones",
+          "Pokédexes",
+          "Shalour Sables"
+        ],
+        "Friends": [
+          "Cynthia",
+          "Dexio",
+          "Diantha",
+          "Lysandre",
+          "Professor Rowan",
+          "Sina"
+        ],
+        "Hobbies": [
+          "Research",
+          "Visiting cafés"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Lab coats"
+        ],
+        "Places": [
+          "Bustling places",
+          "Lumiose City",
+          "Pasio",
+          "Quiet places",
+          "The Kalos region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Beautiful lettering",
+          "Partner Pokémon"
+        ]
+      }
+    }
+  },
+  "Raihan": {
+    "name": "Raihan",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Cute Pokémon",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon Contests",
+          "Water types"
+        ],
+        "Items": [
+          "Pokédexes",
+          "Pokégear",
+          "Shalour Sables"
+        ],
+        "Friends": [
+          "Brendan",
+          "Professor Oak",
+          "Silver"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Math",
+          "Pokéathlons"
+        ],
+        "Fashion": [
+          "Bags",
+          "Dresses",
+          "Glasses",
+          "Headphones",
+          "Scarves"
+        ],
+        "Places": [
+          "Cerulean City",
+          "Eterna City",
+          "Pokéstar Studios",
+          "Ruins",
+          "Undella Town"
+        ],
+        "Other": [
+          "Captains",
+          "Ghosts",
+          "Ninjas",
+          "Parades",
+          "Snow",
+          "Supernatural powers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Legendary Pokémon",
+          "Pokémon Natures",
+          "Raising Pokémon",
+          "Rock types"
+        ],
+        "Items": [
+          "Poké Balls"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Reading",
+          "Sweets"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Quiet places",
+          "Pasio",
+          "Spikemuth",
+          "The ocean",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Partner Pokémon",
+          "Thoughtfulness",
+          "Veteran Trainers"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "How to get stronger",
+          "Pokémon battles"
+        ],
+        "Items": [
+          "Gym Badges",
+          "League Cards",
+          "Rotom Phones"
+        ],
+        "Friends": [
+          "Leon",
+          "Melony",
+          "Nessa",
+          "Sonia"
+        ],
+        "Hobbies": [
+          "Photos",
+          "Selfies",
+          "Stars",
+          "Tough training",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Hoodies"
+        ],
+        "Places": [
+          "The Galar region",
+          "Wyndon"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Sandstorms",
+          "The Dynamax phenomenon",
+          "The PML",
+          "Weather"
+        ]
+      }
+    }
+  },
+  "Rika": {
+    "name": "Rika",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon Contests",
+          "Pokémon friends",
+          "Rock types",
+          "Ultra Beasts",
+          "Water types"
+        ],
+        "Items": [
+          "League Cards",
+          "Pokédexes",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Cynthia",
+          "Elio",
+          "Rosa"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Adventure",
+          "Flowers",
+          "Pokéathlons",
+          "Stars",
+          "Walking"
+        ],
+        "Fashion": [
+          "Hats",
+          "Scarves",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Cerulean City",
+          "Coumarine City",
+          "Forests",
+          "Ruins",
+          "The ocean",
+          "Ula'ula Island"
+        ],
+        "Other": [
+          "Aether Foundation",
+          "Clairvoyance",
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon behavior",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions",
+          "Rare Candy"
+        ],
+        "Friends": [
+          "Arven",
+          "Penny"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Nature",
+          "Reading",
+          "Sweets"
+        ],
+        "Places": [
+          "Cabo Paco",
+          "Quiet places",
+          "The Johto region"
+        ],
+        "Other": [
+          "Catchphrases",
+          "Parades",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Tera Shards"
+        ],
+        "Friends": [
+          "Nemona",
+          "Poppy"
+        ],
+        "Hobbies": [
+          "Work"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Fashion",
+          "Glasses",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Bustling places",
+          "Mesagoza",
+          "Pasio",
+          "The Paldea region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Interviews",
+          "Partner Pokémon",
+          "Terastallizing",
+          "The Elite Four",
+          "The PML",
+          "Veteran Trainers"
+        ]
+      }
+    }
+  },
+  "Rosa": {
+    "name": "Rosa",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Holo Casters",
+          "Old Gateaux"
+        ],
+        "Friends": [
+          "Gloria",
+          "Lance"
+        ],
+        "Hobbies": [
+          "Machines",
+          "Math",
+          "Pokéathlons",
+          "Sinnoh's myths",
+          "Stars"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Glasses",
+          "Scarves",
+          "Uniforms"
+        ],
+        "Places": [
+          "Ruins",
+          "Viridian City"
+        ],
+        "Other": [
+          "Catchphrases",
+          "Ghosts",
+          "Ninjas",
+          "Secret Bases",
+          "The Dynamax phenomenon",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Cute Pokémon",
+          "Dragon types",
+          "Ice types",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Poké Balls"
+        ],
+        "Friends": [
+          "Burgh",
+          "Skyla"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Reading",
+          "Tidying up"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Forests",
+          "Quiet places",
+          "The Hoenn region",
+          "The ocean",
+          "Undella Town"
+        ],
+        "Other": [
+          "Snow",
+          "The Elite Four",
+          "Weather",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "Pokémon battles",
+          "Pokémon Evolution",
+          "Snivy"
+        ],
+        "Items": [
+          "Gym Badges",
+          "Pokédexes",
+          "Sweet Hearts",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Hugh",
+          "Nate",
+          "Your rival"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Adventure",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Aspertia City",
+          "Bustling places",
+          "Pasio",
+          "Pokéstar Studios",
+          "The Battle Subway",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Overly helpful people",
+          "Parades",
+          "Partner Pokémon",
+          "People who stand out",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Serena": {
+    "name": "Serena",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Ultra Beasts",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Casteliacones",
+          "The Zephyr Badge",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Gladion",
+          "Melony"
+        ],
+        "Hobbies": [
+          "Jokes",
+          "Outer space",
+          "Pokéathlons",
+          "Stars",
+          "Tough training"
+        ],
+        "Fashion": [
+          "Headphones",
+          "Lab coats"
+        ],
+        "Places": [
+          "Cerulean City",
+          "Forests",
+          "Ruins",
+          "Spikemuth",
+          "Sprout Tower",
+          "The Distortion World",
+          "The ocean",
+          "Ula'ula Island"
+        ],
+        "Other": [
+          "Ghosts",
+          "Macro Cosmos",
+          "Ninjas",
+          "Sandstorms",
+          "Team Yell",
+          "The Dynamax phenomenon",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "Pokémon behavior",
+          "Pokémon Natures",
+          "Raising Pokémon",
+          "Water types"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Festivals",
+          "Nature",
+          "Reading"
+        ],
+        "Places": [
+          "Quiet places",
+          "The Kanto region"
+        ],
+        "Other": [
+          "Champions",
+          "Parades",
+          "Snow",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Pokémon battles",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Holo Casters",
+          "Lumiose Galettes",
+          "Mega Stones",
+          "Pokédexes"
+        ],
+        "Friends": [
+          "Calem",
+          "Friends",
+          "Shauna",
+          "Tierno",
+          "Trevor"
+        ],
+        "Hobbies": [
+          "Stylish things",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Fashion",
+          "Hairstyles",
+          "Hats",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Bustling places",
+          "Pasio",
+          "The Kalos region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Partner Pokémon",
+          "Rhyhorn racers",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Shauna": {
+    "name": "Shauna",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "How to get stronger",
+          "Ice types",
+          "Nebby",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Celestica Flute",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Hop",
+          "Wally"
+        ],
+        "Hobbies": [
+          "Camping",
+          "Machines",
+          "Making Pokéblocks",
+          "Pokéathlons",
+          "Tough training"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Glasses"
+        ],
+        "Places": [
+          "Celestic Town",
+          "Postwick",
+          "Quiet places",
+          "Ruins",
+          "Sprout Tower"
+        ],
+        "Other": [
+          "Captains",
+          "Frontier Brains",
+          "Ninjas",
+          "Snow",
+          "The Subway Bosses",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Normal types",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Potions"
+        ],
+        "Friends": [
+          "Dexio",
+          "Sina"
+        ],
+        "Hobbies": [
+          "Stars",
+          "Visiting cafés"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Forests",
+          "The ocean"
+        ],
+        "Other": [
+          "Blackouts",
+          "Rhyhorn racers",
+          "The PML",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Cute Pokémon",
+          "Grass types",
+          "Love for Pokémon",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Holo Casters",
+          "Lumiose Galettes",
+          "Mega Stones",
+          "Shalour Sables"
+        ],
+        "Friends": [
+          "Clemont",
+          "Tierno",
+          "Trevor"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Festivals",
+          "Puzzles",
+          "Stylish things",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bags",
+          "Fashion",
+          "Hairstyles",
+          "Ribbons"
+        ],
+        "Places": [
+          "Bustling places",
+          "Parfum Palace",
+          "Pasio",
+          "The Kalos region",
+          "The Prism Tower",
+          "Trainer Lodge",
+          "Vaniville Town"
+        ],
+        "Other": [
+          "Dreams",
+          "Ghosts",
+          "Parades",
+          "Partner Pokémon",
+          "Trainer PR videos"
+        ]
+      }
+    }
+  },
+  "Silver": {
+    "name": "Silver",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Cute Pokémon",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types"
+        ],
+        "Items": [
+          "Holo Casters",
+          "Pokédexes",
+          "Shalour Sables",
+          "Z-Crystals"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Ferris wheels",
+          "Festivals",
+          "Pokéathlons",
+          "Stars",
+          "Sweets",
+          "Visiting cafés"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Glasses",
+          "Hats",
+          "Scarves"
+        ],
+        "Places": [
+          "Aspertia City",
+          "Bustling places",
+          "Celestic Town",
+          "Ruins",
+          "Undella Town"
+        ],
+        "Other": [
+          "Captains",
+          "Parades",
+          "Secret Bases",
+          "Snow",
+          "Speaking quickly",
+          "The Dynamax phenomenon",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon Natures"
+        ],
+        "Items": [
+          "Rage Candy Bars",
+          "Rare Candy"
+        ],
+        "Friends": [
+          "Bugsy"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Reading",
+          "Research"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Hairstyles",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Forests",
+          "Pasio",
+          "The ocean",
+          "The Sinnoh region",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Ghosts",
+          "Gym Leaders",
+          "Ninjas",
+          "The PML",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Ice types",
+          "Legendary Pokémon",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Pokégear"
+        ],
+        "Friends": [
+          "Ethan",
+          "Kris",
+          "Lance",
+          "Lyra",
+          "Professor Elm",
+          "Your rival"
+        ],
+        "Hobbies": [
+          "Tough training"
+        ],
+        "Places": [
+          "Quiet places",
+          "Sprout Tower",
+          "The Johto region"
+        ],
+        "Other": [
+          "Partner Pokémon",
+          "The strongest Trainer"
+        ]
+      }
+    }
+  },
+  "Skyla": {
+    "name": "Skyla",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Grass types",
+          "Ice types",
+          "Morpeko",
+          "Nebby",
+          "Normal types",
+          "Rebellious-looking Pokémon",
+          "Rock types",
+          "Ultra Beasts",
+          "Water types"
+        ],
+        "Items": [
+          "League Cards",
+          "Memory drives",
+          "Pokédexes",
+          "The Zephyr Badge"
+        ],
+        "Friends": [
+          "Barry",
+          "Diantha",
+          "Leaf"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Photos",
+          "Pokéathlons",
+          "Research",
+          "Sinnoh's myths"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Bags",
+          "Glasses",
+          "Scarves"
+        ],
+        "Places": [
+          "Battle Resort",
+          "Forests",
+          "Postwick",
+          "Ruins",
+          "The Distortion World",
+          "The ocean"
+        ],
+        "Other": [
+          "Being sensitive to hot weather",
+          "Catchphrases",
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "The Dynamax phenomenon"
+        ]
+      },
+      "Exciting": {
+        "Items": [
+          "Potions"
+        ],
+        "Friends": [
+          "Burgh"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Reading",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Fashion"
+        ],
+        "Places": [
+          "Quiet places",
+          "The Kanto region"
+        ],
+        "Other": [
+          "Parades",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Flying types",
+          "Pokémon battles",
+          "Pokémon Natures",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Gym Badges",
+          "The Jet Badge"
+        ],
+        "Friends": [
+          "Elesa",
+          "Professor Juniper",
+          "Rosa"
+        ],
+        "Hobbies": [
+          "Flying",
+          "Nature",
+          "Stars"
+        ],
+        "Fashion": [
+          "Barrettes",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Bustling places",
+          "Mistralton City",
+          "Pasio",
+          "The Celestial Tower",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Gym Leaders",
+          "Partner Pokémon",
+          "Pilots",
+          "The PML",
+          "Traps in Gyms",
+          "Veteran Trainers",
+          "Weather"
+        ]
+      }
+    }
+  },
+  "Steven": {
+    "name": "Steven",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Cute Pokémon",
+          "Dragon types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Ultra Beasts",
+          "Water types"
+        ],
+        "Items": [
+          "Gym Badges",
+          "Holo Casters"
+        ],
+        "Friends": [
+          "Gloria",
+          "Lucas",
+          "Marnie"
+        ],
+        "Hobbies": [
+          "Ferris wheels",
+          "Math",
+          "Pokéathlons",
+          "Sweets",
+          "Visiting cafés"
+        ],
+        "Fashion": [
+          "Bags",
+          "Bandannas",
+          "Glasses",
+          "Hats",
+          "Scarves"
+        ],
+        "Places": [
+          "Spikemuth",
+          "Sunyshore City",
+          "Ula'ula Island"
+        ],
+        "Other": [
+          "Captains",
+          "Ghosts",
+          "Macro Cosmos",
+          "Ninjas",
+          "Team Yell",
+          "The Dynamax phenomenon",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Flying types",
+          "Pokémon Evolution",
+          "Raising Pokémon"
+        ],
+        "Friends": [
+          "Wally"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Festivals",
+          "Reading",
+          "Research"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Petalburg City",
+          "Quiet places",
+          "Ruins",
+          "The ocean"
+        ],
+        "Other": [
+          "Frontier Brains",
+          "Parades",
+          "Snow",
+          "Veteran Trainers",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Legendary Pokémon",
+          "Pokémon battles",
+          "Rock types",
+          "Steel types"
+        ],
+        "Items": [
+          "Mega Stickpin",
+          "Mega Stones",
+          "PokéNavs",
+          "Rare stones",
+          "Sync stones"
+        ],
+        "Friends": [
+          "Brendan",
+          "May",
+          "Wallace"
+        ],
+        "Hobbies": [
+          "Collecting stones",
+          "Stars"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Devon Corporation",
+          "Pasio",
+          "Rustboro City",
+          "The Hoenn region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Champions",
+          "Partner Pokémon",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Volkner": {
+    "name": "Volkner",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon Contests",
+          "Rock types",
+          "Water types",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Pewter Crunchies",
+          "The Bolt Badge",
+          "The Rising Badge"
+        ],
+        "Friends": [
+          "Brendan",
+          "Gloria",
+          "Professor Birch",
+          "Sina"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Math",
+          "Music",
+          "Pokéathlons",
+          "Stars",
+          "Sweets",
+          "Time"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Hats",
+          "Scarves",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Aether Paradise",
+          "Chargestone Cave",
+          "Forests",
+          "Lilycove City",
+          "Ruins"
+        ],
+        "Other": [
+          "Clairvoyance",
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "The Dynamax phenomenon",
+          "Veteran Trainers"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon behavior",
+          "Pokémon Natures"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Rare Candy"
+        ],
+        "Friends": [
+          "Candice"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Research",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Casual clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "Eterna City",
+          "Quiet places",
+          "The Kanto region"
+        ],
+        "Other": [
+          "Parades",
+          "Weather",
+          "Windmills"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Electric types",
+          "Pokémon battles",
+          "Raising Pokémon",
+          "Steel types"
+        ],
+        "Items": [
+          "Gym Badges",
+          "The Beacon Badge"
+        ],
+        "Friends": [
+          "Dawn",
+          "Flint"
+        ],
+        "Hobbies": [
+          "Machines"
+        ],
+        "Fashion": [
+          "Hairstyles"
+        ],
+        "Places": [
+          "Pasio",
+          "Sunyshore City",
+          "The ocean",
+          "The Sinnoh region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Blackouts",
+          "Gym Leaders",
+          "Partner Pokémon",
+          "Remodeling Pokémon Gyms",
+          "The PML",
+          "The strongest Trainer"
+        ]
+      }
+    }
+  },
+  "Volo": {
+    "name": "Volo",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Love for Pokémon",
+          "Normal types",
+          "Rock types",
+          "Type: Null",
+          "Water types"
+        ],
+        "Items": [
+          "Gramophones",
+          "Gym Badges",
+          "Lava Cookies"
+        ],
+        "Friends": [
+          "Ethan",
+          "Sonia",
+          "Will"
+        ],
+        "Hobbies": [
+          "Festivals",
+          "Music",
+          "Pokéathlons",
+          "Stars",
+          "Sweets",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Scarves",
+          "Sunglasses",
+          "Uniforms"
+        ],
+        "Places": [
+          "Bustling places",
+          "Chargestone Cave",
+          "Forests",
+          "Indigo Plateau",
+          "Mount Lanakila",
+          "Quiet places",
+          "The ocean",
+          "Viridian City"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Parades",
+          "Sandstorms",
+          "Snow",
+          "Supernatural powers",
+          "The Dynamax phenomenon",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Raising Pokémon"
+        ],
+        "Friends": [
+          "Adaman",
+          "Irida"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Nature",
+          "Reading"
+        ],
+        "Fashion": [
+          "Fashion"
+        ],
+        "Other": [
+          "Diamond Clan",
+          "Partner Pokémon",
+          "Pearl Clan",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Almighty Sinnoh",
+          "Legendary Pokémon",
+          "Pokémon battles",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Pokédexes",
+          "Potions",
+          "The Red Chain"
+        ],
+        "Friends": [
+          "Akari",
+          "Rei"
+        ],
+        "Hobbies": [
+          "Investigating myths",
+          "Sinnoh's myths"
+        ],
+        "Fashion": [
+          "Bags",
+          "Hairstyles",
+          "Hats"
+        ],
+        "Places": [
+          "Lake Verity",
+          "Mount Coronet",
+          "Pasio",
+          "Ruins",
+          "The Hisui region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "The Ginkgo Guild",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Wally": {
+    "name": "Wally",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Pokémon friends",
+          "Rock types",
+          "Water types",
+          "Words spoken by Pokémon"
+        ],
+        "Items": [
+          "Old Gateaux",
+          "Mega Stickpin",
+          "Wishing Stars"
+        ],
+        "Friends": [
+          "Hilda",
+          "Hugh",
+          "Iris"
+        ],
+        "Hobbies": [
+          "Acting",
+          "Jokes",
+          "Machines",
+          "Pokéathlons",
+          "Stars",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Glasses",
+          "Hats",
+          "Headphones"
+        ],
+        "Places": [
+          "Forests",
+          "Indigo Plateau",
+          "Pokéstar Studios",
+          "Ruins",
+          "The ocean"
+        ],
+        "Other": [
+          "Catchphrases",
+          "Evil schemes",
+          "Ghosts",
+          "Ninjas",
+          "Remodeling Pokémon Gyms",
+          "Snow",
+          "The Dynamax phenomenon",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon behavior"
+        ],
+        "Items": [
+          "Potions"
+        ],
+        "Friends": [
+          "Wallace"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Nature",
+          "Reading"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Sporty clothes"
+        ],
+        "Places": [
+          "Bustling places",
+          "The Sinnoh region"
+        ],
+        "Other": [
+          "Parades",
+          "Weather"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Pokémon battles",
+          "Pokémon Evolution",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Lava Cookies",
+          "Mega Stones",
+          "Poké Balls"
+        ],
+        "Friends": [
+          "Brendan",
+          "May",
+          "Norman"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Training sessions"
+        ],
+        "Fashion": [
+          "Accessories",
+          "Hairstyles"
+        ],
+        "Places": [
+          "Battle Resort",
+          "Pasio",
+          "Petalburg City",
+          "Quiet places",
+          "The Hoenn region",
+          "Trainer Lodge",
+          "Verdanturf Town"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Gym Leaders",
+          "Partner Pokémon",
+          "The PML"
+        ]
+      }
+    }
+  }
+}
