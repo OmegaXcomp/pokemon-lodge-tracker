@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2026-03-11 06:58 UTC",
+      "trainer_count": 51,
+      "change_count": 2,
+      "changes": [
+        {
+          "type": "new_trainer",
+          "trainer": "Misty",
+          "details": "3 tiers, 77 topics"
+        },
+        {
+          "type": "modified_trainer",
+          "trainer": "Grimsley",
+          "details": "-[Super Exciting/Friends]: Gems; +[Super Exciting/Items]: Gems"
+        }
+      ]
+    },
+    {
       "date": "2026-02-11 05:04 UTC",
       "trainer_count": 50,
       "change_count": 50,

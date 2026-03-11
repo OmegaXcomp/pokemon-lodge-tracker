@@ -1,8 +1,8 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-01 06:52 UTC",
-    "trainer_count": 50,
-    "total_topics": 3845,
+    "last_updated": "2026-03-11 06:58 UTC",
+    "trainer_count": 51,
+    "total_topics": 3922,
     "source": "pokemon-masters-ex-game.fandom.com",
     "scraper_version": "2.0",
     "errors": []
@@ -2132,12 +2132,12 @@
           "Raising Pokémon"
         ],
         "Items": [
+          "Gems",
           "Xtransceivers"
         ],
         "Friends": [
           "Alder",
           "Caitlin",
-          "Gems",
           "Shauntal"
         ],
         "Hobbies": [
@@ -4353,6 +4353,136 @@
           "Parades",
           "Partner Pokémon",
           "Secret Bases",
+          "The PML"
+        ]
+      }
+    }
+  },
+  "Misty": {
+    "name": "Misty",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Normal types",
+          "Rock types",
+          "Snivy",
+          "Type: Null"
+        ],
+        "Items": [
+          "The Jet Badge",
+          "The Red Chain"
+        ],
+        "Friends": [
+          "Nanu",
+          "Professor Kukui"
+        ],
+        "Hobbies": [
+          "Collecting stones",
+          "Math",
+          "Pokéathlons",
+          "Roulette"
+        ],
+        "Fashion": [
+          "Bandannas",
+          "Cardigans"
+        ],
+        "Places": [
+          "Eterna City",
+          "Forests",
+          "Poké Pelago",
+          "Quiet places",
+          "Ruins",
+          "Sunyshore City"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Pilots",
+          "Sandstorms",
+          "Secret Bases",
+          "Snow",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Pokémon behavior",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Pewter Crunchies",
+          "Pokégear",
+          "Potions"
+        ],
+        "Friends": [
+          "Erika"
+        ],
+        "Hobbies": [
+          "Exercise",
+          "Festivals",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Pallet Town",
+          "Viridian City"
+        ],
+        "Other": [
+          "People who stand out"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Love for Pokémon",
+          "Pokémon battles",
+          "Raising Pokémon",
+          "Water types"
+        ],
+        "Items": [
+          "Gym Badges",
+          "The Cascade Badge"
+        ],
+        "Friends": [
+          "Blue",
+          "Brock",
+          "Lorelei",
+          "Red"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Competitions",
+          "Stars",
+          "Swimming",
+          "Tough training"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Hoodies",
+          "Sporty clothes",
+          "Swimsuits"
+        ],
+        "Places": [
+          "Bustling places",
+          "Cerulean CIty",
+          "Pasio",
+          "The Kanto region",
+          "The ocean",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Dreams",
+          "Gym Leaders",
+          "Parades",
+          "Partner Pokémon",
           "The PML"
         ]
       }
