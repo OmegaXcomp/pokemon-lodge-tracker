@@ -1,8 +1,8 @@
 {
   "_metadata": {
-    "last_updated": "2026-04-01 07:26 UTC",
-    "trainer_count": 51,
-    "total_topics": 3922,
+    "last_updated": "2026-04-11 07:05 UTC",
+    "trainer_count": 52,
+    "total_topics": 3999,
     "source": "pokemon-masters-ex-game.fandom.com",
     "scraper_version": "2.0",
     "errors": []
@@ -2293,6 +2293,134 @@
           "Parades",
           "Partner Pokémon",
           "The PML",
+          "The Subway Bosses"
+        ]
+      }
+    }
+  },
+  "Ingo": {
+    "name": "Ingo",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Kyogre",
+          "Normal types",
+          "Sinistcha",
+          "Water types"
+        ],
+        "Items": [
+          "Dynamax Bands",
+          "Lumiose Galettes",
+          "Syrupy Apples"
+        ],
+        "Friends": [
+          "Rika",
+          "Shauna"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Outer space",
+          "Picnics",
+          "Pokéathlons",
+          "Stars",
+          "Stylish things",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Headphones",
+          "Ribbons",
+          "Scarves"
+        ],
+        "Places": [
+          "Cerulean City",
+          "Forests",
+          "Ruins",
+          "The Treasure Eatery"
+        ],
+        "Other": [
+          "Beautiful lettering",
+          "Fancy Lady",
+          "Ghosts",
+          "Ninjas",
+          "Snow",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Dragon types",
+          "Pokémon behavior",
+          "Pokémon Evolution",
+          "Rock types"
+        ],
+        "Items": [
+          "Casteliacones",
+          "Rare Candy"
+        ],
+        "Hobbies": [
+          "Ferris wheels",
+          "Festivals"
+        ],
+        "Fashion": [
+          "Formal clothes",
+          "Suits"
+        ],
+        "Places": [
+          "Aspertia City",
+          "Bustling places",
+          "Castelia City",
+          "Quiet places",
+          "The ocean"
+        ],
+        "Other": [
+          "Parades",
+          "Smiling"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Pokémon battles",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Vs. Recorders",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Emmet",
+          "Hilbert",
+          "Hilda",
+          "Nate",
+          "Rosa"
+        ],
+        "Hobbies": [
+          "Competitions",
+          "Tough training"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Hats"
+        ],
+        "Places": [
+          "Nimbasa City",
+          "Pasio",
+          "The Battle Subway",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Catchphrases",
+          "Partner Pokémon",
+          "Single Battles",
+          "Tag battles",
+          "The PML",
+          "The strongest Trainer",
           "The Subway Bosses"
         ]
       }

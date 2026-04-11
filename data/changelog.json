@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "date": "2026-04-11 07:05 UTC",
+      "trainer_count": 52,
+      "change_count": 1,
+      "changes": [
+        {
+          "type": "new_trainer",
+          "trainer": "Ingo",
+          "details": "3 tiers, 77 topics"
+        }
+      ]
+    },
+    {
       "date": "2026-03-11 06:58 UTC",
       "trainer_count": 51,
       "change_count": 2,
