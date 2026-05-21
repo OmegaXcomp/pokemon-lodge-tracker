@@ -1,8 +1,8 @@
 {
   "_metadata": {
-    "last_updated": "2026-05-11 09:45 UTC",
-    "trainer_count": 52,
-    "total_topics": 3999,
+    "last_updated": "2026-05-21 09:47 UTC",
+    "trainer_count": 53,
+    "total_topics": 4075,
     "source": "pokemon-masters-ex-game.fandom.com",
     "scraper_version": "2.0",
     "errors": []
@@ -1655,6 +1655,133 @@
         "Other": [
           "Gym Leaders",
           "Models"
+        ]
+      }
+    }
+  },
+  "Emmet": {
+    "name": "Emmet",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Grass types",
+          "Ice types",
+          "Mabosstiff",
+          "Morpeko",
+          "Normal types",
+          "Water types"
+        ],
+        "Items": [
+          "Apricorns",
+          "Herba Mystica",
+          "Mega Stickpin"
+        ],
+        "Friends": [
+          "Elio",
+          "Irida"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Camping",
+          "Pokéathlons",
+          "Sewing",
+          "Space",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bags",
+          "Scarves",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Forests",
+          "Hammerlocke Stadium",
+          "Motostoke Stadium",
+          "Ruins"
+        ],
+        "Other": [
+          "Ghosts",
+          "Ninjas",
+          "Rhyhorn racers",
+          "Snow",
+          "Team Yell",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Pokémon behavior",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Casteliacones",
+          "Rare Candy"
+        ],
+        "Hobbies": [
+          "Ferris wheels",
+          "Festivals"
+        ],
+        "Fashion": [
+          "Formal clothes",
+          "Suits"
+        ],
+        "Places": [
+          "Bustling places",
+          "Mistralton City",
+          "Opelucid City",
+          "Quiet places",
+          "The ocean"
+        ],
+        "Other": [
+          "Parades",
+          "Smiling"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Pokémon battles",
+          "Raising Pokémon",
+          "Rock types"
+        ],
+        "Items": [
+          "Vs. Recorders",
+          "Xtransceivers"
+        ],
+        "Friends": [
+          "Hilbert",
+          "Hilda",
+          "Ingo",
+          "Nate",
+          "Rosa"
+        ],
+        "Hobbies": [
+          "Competitions",
+          "Tough training",
+          "Work"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Hats"
+        ],
+        "Places": [
+          "Nimbasa City",
+          "Pasio",
+          "The Battle Subway",
+          "The Unova region",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Battle tactics",
+          "Double Battles",
+          "Partner Pokémon",
+          "Tag battles",
+          "The PML",
+          "The Subway Bosses"
         ]
       }
     }
