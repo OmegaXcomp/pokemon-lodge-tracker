@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "date": "2026-06-21 09:53 UTC",
+      "trainer_count": 54,
+      "change_count": 1,
+      "changes": [
+        {
+          "type": "new_trainer",
+          "trainer": "Akari",
+          "details": "3 tiers, 77 topics"
+        }
+      ]
+    },
+    {
       "date": "2026-05-21 09:47 UTC",
       "trainer_count": 53,
       "change_count": 1,

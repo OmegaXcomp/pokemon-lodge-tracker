@@ -1,8 +1,8 @@
 {
   "_metadata": {
-    "last_updated": "2026-06-11 10:41 UTC",
-    "trainer_count": 53,
-    "total_topics": 4075,
+    "last_updated": "2026-06-21 09:53 UTC",
+    "trainer_count": 54,
+    "total_topics": 4152,
     "source": "pokemon-masters-ex-game.fandom.com",
     "scraper_version": "2.0",
     "errors": []
@@ -255,6 +255,132 @@
           "Partner Pokémon",
           "Space-time distortion",
           "Veteran Trainers"
+        ]
+      }
+    }
+  },
+  "Akari": {
+    "name": "Akari",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Grass types",
+          "Ice types",
+          "Mabosstiff",
+          "Normal types",
+          "Pokémon friends",
+          "Rock types",
+          "Type: Null",
+          "Water types"
+        ],
+        "Items": [
+          "Big Malasadas",
+          "Wishing Stars",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Kiawe",
+          "Shauna",
+          "Skyla"
+        ],
+        "Hobbies": [
+          "Live streaming",
+          "Ogre Oustin'",
+          "Pokéathlons",
+          "Stars"
+        ],
+        "Fashion": [
+          "Dresses",
+          "Headphones",
+          "Hoodies"
+        ],
+        "Places": [
+          "Aether House",
+          "Mount Lanakila",
+          "Sprout Tower",
+          "The Crystal Pool"
+        ],
+        "Other": [
+          "Ghosts",
+          "Parades",
+          "Team Star",
+          "Team Yell",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Items": [
+          "Berries"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Photos",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Hairstyles"
+        ],
+        "Places": [
+          "Bustling places",
+          "Quiet places",
+          "Ruins"
+        ],
+        "Other": [
+          "Diamond Clan",
+          "Pearl Clan",
+          "The Ginkgo Guild",
+          "The PML"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Catching Pokémon",
+          "Pokémon battles",
+          "Pokémon behavior",
+          "Pokémon Natures"
+        ],
+        "Items": [
+          "Apricorns",
+          "Poké Balls",
+          "Potions"
+        ],
+        "Friends": [
+          "Adaman",
+          "Irida",
+          "Mai",
+          "Rei"
+        ],
+        "Hobbies": [
+          "Crafting",
+          "Festivals",
+          "Fieldwork",
+          "Potato mochi",
+          "Research"
+        ],
+        "Fashion": [
+          "Bags",
+          "Kerchiefs",
+          "Scarves"
+        ],
+        "Places": [
+          "Alabaster Icelands",
+          "Forests",
+          "Mount Coronet",
+          "Pasio",
+          "The Hisui region",
+          "The ocean",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Ninjas",
+          "Partner Pokémon",
+          "Snow",
+          "Space-time distortion",
+          "The Galaxy Expedition Team"
         ]
       }
     }
