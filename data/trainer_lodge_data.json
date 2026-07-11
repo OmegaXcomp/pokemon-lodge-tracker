@@ -1,8 +1,8 @@
 {
   "_metadata": {
-    "last_updated": "2026-07-01 09:53 UTC",
-    "trainer_count": 54,
-    "total_topics": 4152,
+    "last_updated": "2026-07-11 08:00 UTC",
+    "trainer_count": 55,
+    "total_topics": 4229,
     "source": "pokemon-masters-ex-game.fandom.com",
     "scraper_version": "2.0",
     "errors": []
@@ -2419,6 +2419,134 @@
           "Parades",
           "Partner Pokémon",
           "The PML"
+        ]
+      }
+    }
+  },
+  "Hau": {
+    "name": "Hau",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Flying types",
+          "Ice types",
+          "Rock types",
+          "Sinistcha"
+        ],
+        "Items": [
+          "League Cards",
+          "Pewter Crunchies"
+        ],
+        "Friends": [
+          "Mai",
+          "Professor Sycamore"
+        ],
+        "Hobbies": [
+          "Business trips",
+          "Collecting headbands",
+          "Investigating myths",
+          "Pokéathlons",
+          "Stars"
+        ],
+        "Fashion": [
+          "Scarves",
+          "Sunglasses"
+        ],
+        "Places": [
+          "Motostoke Stadium",
+          "Undella Town",
+          "Vaniville Town"
+        ],
+        "Other": [
+          "Clairvoyance",
+          "Ghosts",
+          "Macro Cosmos",
+          "Ninjas",
+          "Snow",
+          "Veteran Trainers",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "Nebby",
+          "Normal types",
+          "Water types"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions",
+          "Rare Candy"
+        ],
+        "Hobbies": [
+          "Exercise"
+        ],
+        "Fashion": [
+          "Casual clothes"
+        ],
+        "Places": [
+          "Akala Island",
+          "Quiet places",
+          "Ruins",
+          "Ula'ula Island"
+        ],
+        "Other": [
+          "Aether Foundation",
+          "Team Skull"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "How to get stronger",
+          "Love for Pokémon",
+          "Pokémon battles",
+          "Raising Pokémon",
+          "Ultra Beasts"
+        ],
+        "Items": [
+          "Big Malasadas",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Elio",
+          "Gladion",
+          "Hala",
+          "Lillie",
+          "Selene"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Festivals",
+          "Meals",
+          "Nature",
+          "Photos",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Bags",
+          "Barrettes",
+          "Hairstyles",
+          "Sandals"
+        ],
+        "Places": [
+          "Bustling places",
+          "Forests",
+          "Melemele Island",
+          "Pasio",
+          "The Alola region",
+          "The ocean",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Island Kahunas",
+          "Parades",
+          "Partner Pokémon",
+          "Smiling",
+          "The PML",
+          "Word choice"
         ]
       }
     }
