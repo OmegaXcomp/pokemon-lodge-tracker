@@ -1,8 +1,8 @@
 {
   "_metadata": {
-    "last_updated": "2026-09-01 11:18 UTC",
-    "trainer_count": 56,
-    "total_topics": 4306,
+    "last_updated": "2026-09-11 10:50 UTC",
+    "trainer_count": 57,
+    "total_topics": 4383,
     "source": "pokemon-masters-ex-game.fandom.com",
     "scraper_version": "2.0",
     "errors": []
@@ -6654,6 +6654,132 @@
           "Champions",
           "Partner Pokémon",
           "The PML"
+        ]
+      }
+    }
+  },
+  "Urbain": {
+    "name": "Urbain",
+    "tiers": {
+      "Interesting": {
+        "Pokemon": [
+          "Bug types",
+          "Dragon types",
+          "Dudunsparce",
+          "Flying types",
+          "Normal types",
+          "Rock types",
+          "Snivy",
+          "Water types"
+        ],
+        "Items": [
+          "Casteliacones",
+          "Z-Crystals"
+        ],
+        "Friends": [
+          "Nate",
+          "Norman"
+        ],
+        "Hobbies": [
+          "Fishing",
+          "Making Pokéblocks",
+          "Pokéathlons",
+          "Stars"
+        ],
+        "Fashion": [
+          "Lab coats",
+          "Sandals",
+          "Scarves"
+        ],
+        "Places": [
+          "Forests",
+          "Lilycove City",
+          "Quiet places",
+          "Ruins",
+          "The Battle Tower",
+          "The Celestial Tower",
+          "The ocean"
+        ],
+        "Other": [
+          "Ghosts",
+          "Macro Cosmos",
+          "Ninjas",
+          "Silph Co.",
+          "Snow",
+          "Windmills"
+        ]
+      },
+      "Exciting": {
+        "Pokemon": [
+          "Ice types",
+          "Pokémon behavior",
+          "Raising Pokémon"
+        ],
+        "Items": [
+          "Poké Balls",
+          "Potions"
+        ],
+        "Hobbies": [
+          "Adventure",
+          "Exercise",
+          "Festivals",
+          "Sweets"
+        ],
+        "Fashion": [
+          "Casual clothes",
+          "Sporty clothes"
+        ],
+        "Other": [
+          "Parades",
+          "Thoughtfulness"
+        ]
+      },
+      "Super Exciting": {
+        "Pokemon": [
+          "Grass types",
+          "How to get stronger",
+          "Pokémon battles",
+          "Pokémon Evolution"
+        ],
+        "Items": [
+          "Lumiose Galettes",
+          "Mega Stones",
+          "Rotom Phones"
+        ],
+        "Friends": [
+          "Family",
+          "Friends",
+          "Harmony",
+          "Lida",
+          "Naveen"
+        ],
+        "Hobbies": [
+          "Cooking",
+          "Live streaming",
+          "Meals",
+          "Work"
+        ],
+        "Fashion": [
+          "Hairstyles",
+          "Jackets"
+        ],
+        "Places": [
+          "Bustling places",
+          "Hotel Z",
+          "Lumiose City",
+          "Pasio",
+          "The Kalos region",
+          "The Prism Tower",
+          "Trainer Lodge"
+        ],
+        "Other": [
+          "Helping people",
+          "Mega Evolution",
+          "Partner Pokémon",
+          "Team MZ",
+          "The PML",
+          "The strongest Trainer",
+          "Veteran Trainers"
         ]
       }
     }
